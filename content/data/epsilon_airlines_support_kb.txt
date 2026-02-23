@@ -1,0 +1,3527 @@
+================================================================================
+        EPSILON AIRLINES CUSTOMER SERVICE MANUAL
+        Publication EA-CSM-2025: Policies, Procedures,
+        and Fare Regulations for All Service Classes
+        Effective January 1, 2025
+================================================================================
+
+TABLE OF CONTENTS
+Section A: Fare Classes & Ticket Types ................................. Page 1
+Section B: Baggage Policies & Fees ..................................... Page 18
+Section C: Voyager Rewards Loyalty Program ............................. Page 34
+Section D: Flight Changes, Cancellations & Refunds ..................... Page 52
+Section E: Seating, Upgrades & UpLift Tokens ........................... Page 68
+Section F: Special Assistance & Accessibility Services ................. Page 82
+Section G: Stratosphere Lounge Access & Amenities ...................... Page 94
+Section H: Irregular Operations & Passenger Protections ................ Page 106
+Appendix A: SkyCredits Earning & Redemption Tables ..................... Page 120
+Appendix B: Fare Class Comparison Matrix ............................... Page 126
+Appendix C: EpsilonConnect Corporate Rate Schedule ..................... Page 130
+
+================================================================================
+
+IMPORTANT NOTICE: This publication constitutes the complete and authoritative
+reference for Epsilon Airlines customer-facing policies, fare regulations,
+loyalty program rules, and service standards. All monetary amounts are expressed
+in United States Dollars (USD). The policies herein are effective as of January
+1, 2025, and supersede all prior versions of the Epsilon Airlines Customer
+Service Manual including EA-CSM-2024 and all interim policy bulletins issued
+during calendar year 2024. In the event of a conflict between this manual and
+any promotional materials, the terms of this manual shall govern.
+
+For questions regarding this publication, contact Epsilon Airlines Customer
+Support at 1-800-EPSILON (1-800-377-4566) or visit
+www.epsilonairlines.com/support.
+
+================================================================================
+SECTION A: FARE CLASSES & TICKET TYPES
+================================================================================
+
+Epsilon Airlines offers four primary fare classes, each with distinct service
+levels, baggage allowances, change and cancellation policies, and SkyCredits
+earning rates. This section describes each fare class in detail, along with
+Group Booking provisions and the EpsilonConnect Corporate Account program.
+All fares are subject to applicable government taxes and carrier-imposed fees.
+For baggage weight and dimension limits beyond those listed here, see
+Section B. For Voyager Rewards tier-specific overrides to these policies,
+see Section C.
+
+--------------------------------------------------------------------------------
+A.1  ESSENTIALS FARE
+--------------------------------------------------------------------------------
+
+The Essentials Fare is Epsilon Airlines' lowest published fare and is subject
+to the most restrictive terms of carriage. Passengers booking an Essentials
+Fare should carefully review the Essentials Fare Compact Rules below, as
+several standard amenities are excluded from this fare class.
+
+A.1.1  Seat Assignment
+
+Essentials Fare passengers do NOT select a seat at the time of booking. Seats
+are assigned automatically at check-in (beginning 24 hours before scheduled
+departure). The system assigns middle seats first (seats B and E on Epsilon's
+standard 3-3 configuration); window and aisle seats are assigned only after
+all middle seats on the aircraft have been filled.
+
+  Exception: Voyager Rewards members at the Navigator tier or above may
+  pre-select a Standard seat at booking even when holding an Essentials Fare
+  ticket, per Section C.3.2. This override does NOT extend to SkyStretch Seats
+  or preferred-position seats (bulkhead, exit row).
+
+  EXAMPLE — Maya:
+  Maya, a Navigator tier member, books an Essentials Fare on Flight EA-412
+  from Chicago (ORD) to Denver (DEN) at $89. Despite the Essentials Fare
+  Compact Rules, Maya may select a Standard aisle or window seat at the time
+  of booking at no additional charge. However, if Maya wishes to select a
+  SkyStretch Seat, she must pay the applicable SkyStretch surcharge of $45
+  (domestic) per the schedule in Section E.2.1.
+
+A.1.2  Carry-On Baggage
+
+Essentials Fare passengers are permitted ONE personal item that must fit
+entirely beneath the seat in front of them. Maximum personal item dimensions:
+18 x 14 x 8 inches (45 x 36 x 20 cm).
+
+  A full-size carry-on bag (22 x 14 x 9 inches) is NOT included with the
+  Essentials Fare. Passengers who bring an overhead-bin-sized bag to the gate
+  will be required to check the bag and pay the applicable checked baggage
+  fee of $35 plus a $25 gate-handling surcharge (total $60). See Section B.1
+  for complete carry-on policies.
+
+  Exception: Voyager Rewards members at the Captain tier or above receive
+  complimentary carry-on privileges on all fare classes, including Essentials
+  Fare, per Section C.4.1.
+
+A.1.3  Checked Baggage
+
+Essentials Fare does not include any free checked baggage. Checked bag fees
+for Essentials Fare passengers are:
+
+    1st checked bag:    $35
+    2nd checked bag:    $45
+    3rd checked bag:    $150
+    Each additional:    $200
+
+  Maximum weight per bag: 50 lbs (23 kg). Overweight bags (51-70 lbs) incur
+  an additional $100 surcharge per bag. Bags exceeding 70 lbs (32 kg) are
+  not accepted. Maximum linear dimensions: 62 inches (157 cm). Oversized bags
+  (63-80 linear inches) incur an additional $200 surcharge. Bags exceeding
+  80 linear inches are not accepted as checked luggage and must be shipped
+  as cargo. See Section B.2 for the full overweight and oversized schedule.
+
+A.1.4  Changes and Same-Day Modifications
+
+  Advance changes (more than 24 hours before departure):
+    Change fee:       $39 per passenger per direction
+    Fare difference:  Required. If the new fare is lower, no credit is issued.
+    Method:           Online at epsilonairlines.com, via the Epsilon Airlines
+                      mobile app, or by calling 1-800-EPSILON.
+
+  Same-day changes:
+    Essentials Fare passengers are NOT eligible for same-day confirmed changes.
+    Same-day standby is permitted at the airport only, subject to a $75
+    same-day standby fee. If no seat is available, the fee is refunded.
+
+  EXAMPLE — Derek:
+  Derek holds an Essentials Fare ticket on Flight EA-220 from Atlanta (ATL)
+  to Miami (MIA), originally $112. He wishes to change to Flight EA-224,
+  departing 3 hours later, which is priced at $148. Derek's total cost to
+  change: $39 (change fee) + $36 (fare difference) = $75. If Derek attempted
+  to change to an earlier flight priced at $98, his cost would be $39 (change
+  fee) with no credit for the $14 fare difference.
+
+A.1.5  Cancellations and Refunds
+
+  Essentials Fare tickets are NON-REFUNDABLE. Upon cancellation, the passenger
+  receives a future travel credit equal to the original fare minus a $99
+  cancellation processing fee. Future travel credits expire 12 months from
+  the date of issue and are non-transferable.
+
+  24-Hour Flexible Booking Rule:
+    Per Epsilon Airlines Policy EA-2025-024, any ticket — including Essentials
+    Fare — purchased at least 7 days before departure may be cancelled within
+    24 hours of booking for a full refund to the original form of payment with
+    no fees. This rule applies regardless of fare class.
+
+  EXAMPLE — Priya:
+  Priya books an Essentials Fare ticket for $134 on Monday for a flight
+  departing the following Saturday (6 days later). Because the departure is
+  fewer than 7 days away, the 24-Hour Flexible Booking Rule does NOT apply.
+  If Priya cancels on Tuesday, she receives a future travel credit of
+  $134 - $99 = $35.
+
+  If instead the flight departed 10 days later, Priya could cancel within 24
+  hours for a full $134 refund.
+
+A.1.6  SkyCredits Earning Rate
+
+  Essentials Fare passengers earn SkyCredits at 50% of the base fare
+  (excluding taxes and fees). The SkyCredits earning rate may be further
+  modified by Voyager Rewards tier multipliers as described in Section C.6.
+
+    Base earning:           50% of base fare in SkyCredits
+    Explorer tier bonus:    None (1.0x multiplier)
+    Navigator tier bonus:   1.25x multiplier (effective rate: 62.5%)
+    Captain tier bonus:     1.50x multiplier (effective rate: 75%)
+    Admiral tier bonus:     2.00x multiplier (effective rate: 100%)
+
+A.1.7  Upgrades
+
+  Essentials Fare tickets are NOT eligible for complimentary upgrades,
+  UpLift Token upgrades, or SkyCredits upgrade requests. Passengers wishing
+  to move to a higher fare class must change their ticket to the desired
+  fare class and pay the applicable fare difference plus the $39 change fee.
+
+  Exception: Admiral tier members may use UpLift Tokens to upgrade from
+  Essentials Fare to Horizon Fare only (not directly to Summit or Apex),
+  per Section E.4.3. This exception requires 1 UpLift Token per segment and
+  is subject to availability at the time of request.
+
+--------------------------------------------------------------------------------
+A.2  HORIZON FARE
+--------------------------------------------------------------------------------
+
+The Horizon Fare is Epsilon Airlines' standard economy class product,
+offering a balance of value and flexibility. It is the most commonly booked
+fare class across the Epsilon Airlines network.
+
+A.2.1  Seat Assignment
+
+Horizon Fare passengers may select a Standard seat at the time of booking at
+no additional charge. Standard seats include all non-SkyStretch, non-preferred
+seats in the main cabin (typically rows 15-38 on Epsilon's Airbus A320neo
+fleet and rows 20-52 on Boeing 787-9 Dreamliner international service).
+
+  Preferred seats (bulkhead rows, forward cabin positions) are available for
+  an additional fee of $15-$35 depending on route distance, or complimentary
+  for Navigator tier and above (see Section E.1.2).
+
+  SkyStretch Seats are available for an additional fee:
+    Domestic and short-haul international (under 2,500 miles):  $45
+    Medium-haul international (2,500-5,000 miles):              $65
+    Long-haul international (over 5,000 miles):                 $89
+
+A.2.2  Carry-On and Checked Baggage
+
+  Carry-on: ONE full-size carry-on bag (22 x 14 x 9 inches) plus ONE
+  personal item (18 x 14 x 8 inches) included at no charge.
+
+  Checked baggage:
+    1st checked bag:    FREE (up to 50 lbs / 23 kg)
+    2nd checked bag:    $45
+    3rd checked bag:    $150
+    Each additional:    $200
+
+  Overweight and oversized surcharges apply per Section B.2.
+
+A.2.3  Changes and Same-Day Modifications
+
+  Advance changes (more than 24 hours before departure):
+    Voyager Rewards Navigator tier and above:  $0 change fee
+    Voyager Rewards Explorer tier:             $49 change fee
+    Non-members:                               $49 change fee
+    Fare difference:  Required in all cases. If the new fare is lower, the
+                      difference is issued as a future travel credit.
+
+  Same-day confirmed changes:
+    Horizon Fare passengers may request a same-day confirmed change to a
+    different flight on the same route, subject to availability.
+    Fee: $0 for Captain tier and above; $75 for all others.
+    Fare difference does NOT apply for same-day confirmed changes; however,
+    a downgrade credit is not issued if the new flight has a lower fare.
+
+  Same-day standby:
+    Permitted at no charge for all Horizon Fare passengers. The passenger
+    must request standby status at the airport or via the mobile app no
+    earlier than 24 hours before the desired flight's departure.
+
+  EXAMPLE — Jun:
+  Jun, a Navigator tier member, holds a Horizon Fare ticket on Flight EA-815
+  from San Francisco (SFO) to New York (JFK) at $287. He wants to change to
+  Flight EA-811, departing 2 hours earlier, priced at $312. Jun's cost:
+  $0 (change fee, waived for Navigator) + $25 (fare difference) = $25.
+  If Jun were an Explorer tier member, his cost would be $49 + $25 = $74.
+
+A.2.4  Cancellations and Refunds
+
+  Horizon Fare tickets are refundable subject to a $75 cancellation fee.
+  The refund is issued to the original form of payment within 7-10 business
+  days.
+
+  Alternatively, the passenger may elect a future travel credit for the full
+  fare amount (no cancellation fee deducted). Future travel credits expire
+  12 months from the date of issue.
+
+  The 24-Hour Flexible Booking Rule (see A.1.5) also applies to Horizon Fare.
+
+A.2.5  SkyCredits Earning Rate
+
+    Base earning:           100% of base fare in SkyCredits
+    Explorer tier bonus:    None (1.0x multiplier)
+    Navigator tier bonus:   1.25x multiplier (effective rate: 125%)
+    Captain tier bonus:     1.50x multiplier (effective rate: 150%)
+    Admiral tier bonus:     2.00x multiplier (effective rate: 200%)
+
+A.2.6  Upgrades
+
+  Horizon Fare passengers are eligible for:
+    (a) Complimentary upgrades to Summit Fare (SkyStretch) seating when
+        available, for Captain tier and above, beginning 24 hours before
+        departure. Upgrade priority is determined by Voyager Rewards tier,
+        then by fare price paid, then by Voyager Rewards account seniority.
+    (b) UpLift Token upgrades from Horizon to Summit (1 token per segment)
+        or Horizon to Apex Class (2 tokens per segment, domestic only;
+        3 tokens for international segments over 2,500 miles). UpLift Token
+        upgrade requests may be submitted up to 120 hours before departure
+        and are confirmed no later than 24 hours before departure.
+    (c) SkyCredits upgrade bids via the "UpBid" program (see Section E.5).
+        Minimum bid: 5,000 SkyCredits for domestic Summit upgrade; 15,000
+        SkyCredits for domestic Apex upgrade; 25,000-60,000 SkyCredits for
+        international Apex upgrade depending on route distance.
+
+--------------------------------------------------------------------------------
+A.3  SUMMIT FARE
+--------------------------------------------------------------------------------
+
+The Summit Fare is Epsilon Airlines' premium economy product, providing
+enhanced comfort and amenities without the full cost of Apex Class service.
+Summit Fare is available on all flights operated by Epsilon Airlines mainline
+aircraft with 150 or more seats.
+
+A.3.1  Seat Assignment — SkyStretch Seats
+
+All Summit Fare passengers are seated in the SkyStretch section, which
+features:
+  - Seat pitch of 36-38 inches (compared to 30-31 inches in Standard)
+  - Seat width of 18.5 inches (compared to 17.2 inches in Standard)
+  - Adjustable headrest with side wings
+  - Dedicated overhead bin space (1 bin per 2 passengers, guaranteed)
+  - Power outlet (AC and USB-C) at every seat
+  - 13.3-inch personal seatback entertainment screen (on equipped aircraft)
+
+  Seat selection within the SkyStretch cabin is complimentary at time of
+  booking for all Summit Fare passengers, including window, aisle, and
+  bulkhead positions.
+
+A.3.2  Boarding Priority
+
+  Summit Fare passengers board in Zone 2, after Apex Class (Zone 1), active
+  military, and passengers requiring extra assistance. Voyager Rewards
+  Captain and Admiral tier members boarding in Zone 1 retain their priority
+  regardless of fare class.
+
+A.3.3  Carry-On and Checked Baggage
+
+  Carry-on: ONE full-size carry-on bag plus ONE personal item (same
+  dimensions as Horizon Fare).
+
+  Checked baggage:
+    1st checked bag:    FREE (up to 50 lbs / 23 kg)
+    2nd checked bag:    FREE (up to 50 lbs / 23 kg)
+    3rd checked bag:    $150
+    Each additional:    $200
+
+A.3.4  Changes and Same-Day Modifications
+
+  Advance changes:
+    Change fee:       $0 for all passengers regardless of Voyager Rewards tier
+    Fare difference:  Required. If the new fare is lower, the difference is
+                      refunded to the original form of payment.
+
+  Same-day confirmed changes:
+    Permitted at no charge for all Summit Fare passengers, subject to
+    availability in the Summit cabin. If no Summit availability exists, the
+    passenger may accept a Horizon Fare seat with a future travel credit for
+    the fare difference, or remain on the original flight.
+
+  EXAMPLE — Aaliyah:
+  Aaliyah holds a Summit Fare ticket on Flight EA-550 from Seattle (SEA) to
+  Los Angeles (LAX), purchased for $389. She arrives at the airport early
+  and requests a same-day change to Flight EA-546, departing 90 minutes
+  sooner. Flight EA-546 has Summit availability. Aaliyah is confirmed on
+  EA-546 at no additional charge, regardless of the current fare price of
+  EA-546 (which may be higher or lower than $389).
+
+A.3.5  Cancellations and Refunds
+
+  Summit Fare tickets are FULLY REFUNDABLE. Upon cancellation, the full fare
+  is refunded to the original form of payment within 7-10 business days. No
+  cancellation fee applies.
+
+  Passengers may also elect a future travel credit with a 10% bonus. For
+  example, a $389 Summit Fare cancellation taken as credit yields a $427.90
+  future travel credit (valid for 12 months).
+
+A.3.6  SkyCredits Earning Rate
+
+    Base earning:           150% of base fare in SkyCredits
+    Explorer tier bonus:    None (1.0x multiplier)
+    Navigator tier bonus:   1.25x multiplier (effective rate: 187.5%)
+    Captain tier bonus:     1.50x multiplier (effective rate: 225%)
+    Admiral tier bonus:     2.00x multiplier (effective rate: 300%)
+
+A.3.7  Complimentary Amenities
+
+  Summit Fare passengers receive:
+    - Complimentary premium snack box (choice of Mediterranean, Asian Fusion,
+      or Classic American selection) on flights over 2 hours
+    - Complimentary non-alcoholic beverages including specialty coffee and
+      fresh juice
+    - Complimentary alcoholic beverages on flights over 3 hours (beer, wine,
+      and select cocktails; top-shelf spirits available for purchase at $8)
+    - Noise-canceling headphones (on loan; available on flights over 4 hours)
+    - Amenity kit on international flights over 6 hours (eye mask, ear plugs,
+      lip balm, hand cream)
+
+--------------------------------------------------------------------------------
+A.4  APEX CLASS
+--------------------------------------------------------------------------------
+
+Apex Class is Epsilon Airlines' premium cabin, featuring the CloudDeck Suite
+on widebody international aircraft and recliner-style seating on domestic and
+narrowbody routes. Apex Class represents the highest level of onboard service
+offered by Epsilon Airlines.
+
+A.4.1  CloudDeck Suite (International Widebody)
+
+On Boeing 787-9 Dreamliner and Airbus A330-900neo aircraft, Apex Class
+features the CloudDeck Suite:
+  - Fully lie-flat seat converting to a 78-inch bed
+  - Suite door for personal privacy (on 787-9 aircraft delivered after 2023)
+  - Seat pitch of 78 inches; seat width of 21 inches in seat mode
+  - Direct aisle access from every seat (1-2-1 configuration)
+  - 18-inch 4K personal entertainment screen
+  - AC power, USB-A, USB-C, and wireless Qi charging
+  - Individual reading light and ambient mood lighting
+  - Premium bedding set (Frette duvet, memory foam mattress pad, full-size
+    pillow)
+
+A.4.2  Domestic Apex Seating
+
+On narrowbody aircraft (Airbus A320neo family, Boeing 737 MAX), Apex Class
+features:
+  - Recliner seat with 8 inches of additional recline versus Standard
+  - Seat pitch of 42 inches; seat width of 21 inches
+  - Footrest and adjustable lumbar support
+  - 10.1-inch personal entertainment screen
+  - Power outlet (AC and USB-C)
+
+A.4.3  Boarding Priority
+
+  Apex Class passengers board in Zone 1 (first to board after pre-boarding).
+  This is shared with Voyager Rewards Admiral tier members regardless of
+  fare class, and Captain tier members on Apex Class tickets receive Zone 1
+  as well.
+
+A.4.4  Carry-On and Checked Baggage
+
+  Carry-on: ONE full-size carry-on bag plus ONE personal item, with priority
+  overhead bin access (bins above rows 1-4 are reserved for Apex Class).
+
+  Checked baggage:
+    1st checked bag:    FREE (up to 70 lbs / 32 kg)
+    2nd checked bag:    FREE (up to 70 lbs / 32 kg)
+    3rd checked bag:    FREE (up to 70 lbs / 32 kg)
+    4th and beyond:     $200 each (up to 70 lbs / 32 kg)
+
+  Note the increased weight allowance: Apex Class checked bags may weigh up
+  to 70 lbs (32 kg) each, compared to 50 lbs (23 kg) for all other fare
+  classes. See Section B.3 for Apex Class-specific baggage handling policies
+  including priority delivery.
+
+A.4.5  Changes and Same-Day Modifications
+
+  Advance changes:
+    Change fee:       $0 — unlimited free changes for all Apex Class tickets
+    Fare difference:  If the new fare is higher, the difference is charged.
+                      If the new fare is lower, the difference is refunded to
+                      the original form of payment.
+
+  Same-day confirmed changes:
+    Permitted at no charge. If Apex Class is not available on the desired
+    alternate flight, the passenger may:
+      (a) Accept a Summit Fare seat with a future travel credit for the fare
+          difference, OR
+      (b) Fly standby for the next Apex-available flight at no charge.
+
+A.4.6  Cancellations and Refunds
+
+  Apex Class tickets are FULLY REFUNDABLE at any time — including after
+  departure for the unused portion of the ticket. Refunds are issued to the
+  original form of payment within 5 business days (expedited processing).
+
+  No cancellation fee applies under any circumstances.
+
+  EXAMPLE — Kwame:
+  Kwame holds an Apex Class round-trip ticket from New York (JFK) to London
+  Heathrow (LHR), purchased for $5,840. After completing the outbound
+  segment, Kwame's plans change and he no longer needs the return flight.
+  Kwame cancels the return segment and receives a refund equal to 50% of the
+  round-trip fare ($2,920), processed within 5 business days. If the return
+  segment's one-way value at time of purchase was greater or less than 50%,
+  the actual segment value is used (as shown on the original itinerary
+  receipt).
+
+A.4.7  SkyCredits Earning Rate
+
+    Base earning:           200% of base fare in SkyCredits
+    Explorer tier bonus:    None (1.0x multiplier)
+    Navigator tier bonus:   1.25x multiplier (effective rate: 250%)
+    Captain tier bonus:     1.50x multiplier (effective rate: 300%)
+    Admiral tier bonus:     2.00x multiplier (effective rate: 400%)
+
+A.4.8  Stratosphere Lounge Access
+
+  All Apex Class passengers holding a same-day boarding pass for an Epsilon
+  Airlines-operated Apex Class flight receive complimentary access to any
+  Stratosphere Lounge worldwide, including:
+    - Epsilon Airlines-operated Stratosphere Lounges (23 locations)
+    - Partner airline lounges in the CloudAlliance network (48 locations)
+
+  Access begins up to 3 hours before scheduled departure. One guest may
+  accompany the Apex Class passenger at no charge. Additional guests may be
+  admitted for $65 per person, subject to lounge capacity. Children under 2
+  are admitted free and do not count as guests. See Section G for complete
+  Stratosphere Lounge policies and location directory.
+
+A.4.9  Complimentary Meals and Premium Beverages
+
+  Domestic flights (under 3.5 hours):
+    - Multi-course meal service with choice of 3 entrees
+    - Full bar including premium wines, craft cocktails, and top-shelf spirits
+    - Warm towel service before meal
+
+  Domestic flights (3.5 hours and over) and short-haul international:
+    - Full multi-course meal: appetizer, soup or salad, choice of 4 entrees,
+      cheese course, and dessert
+    - Curated wine list (6+ selections, rotated quarterly)
+    - Mid-flight snack service
+
+  Long-haul international (over 6 hours):
+    - Pre-departure beverage service (champagne, juice, or water)
+    - Multi-course dinner service (amuse-bouche, appetizer, soup, entree
+      choice of 5, cheese plate, dessert, petit fours)
+    - Dine-on-demand option available between meal services
+    - Full breakfast service before arrival
+    - Turndown service with premium bedding
+
+  EXAMPLE — Sofia:
+  Sofia, a Captain tier member, books an Apex Class ticket on Flight EA-101
+  from Los Angeles (LAX) to Tokyo Narita (NRT), a 12-hour flight, for
+  $4,200. Sofia earns 200% x 1.50x = 300% of the base fare in SkyCredits.
+  If the base fare (excluding $612 in taxes and fees) is $3,588, Sofia earns
+  $3,588 x 300% = 10,764 SkyCredits. She also receives Stratosphere Lounge
+  access at LAX (with 1 free guest), Zone 1 boarding, 3 free checked bags at
+  up to 70 lbs each, the full international CloudDeck Suite experience, and
+  all premium dining services.
+
+--------------------------------------------------------------------------------
+A.5  GROUP BOOKINGS (10 OR MORE PASSENGERS)
+--------------------------------------------------------------------------------
+
+Epsilon Airlines offers special terms for group travel of 10 or more
+passengers traveling on the same itinerary and fare class. Group bookings
+are managed through the Epsilon Airlines Group Travel Desk.
+
+A.5.1  Eligible Fare Classes
+
+  Group rates are available on Horizon Fare, Summit Fare, and Apex Class
+  only. Essentials Fare is NOT eligible for group pricing due to its already-
+  discounted structure.
+
+A.5.2  Group Discount Schedule
+
+    10-19 passengers:     5% discount off published fare
+    20-49 passengers:     8% discount off published fare
+    50-99 passengers:     10% discount off published fare
+    100+ passengers:      Negotiated rate (contact Group Travel Desk)
+
+  Discounts are calculated against the published fare at the time of group
+  deposit and are locked for the duration of the deposit hold period (see
+  A.5.4). Discounts apply to the base fare only; taxes and carrier-imposed
+  fees are not discounted.
+
+A.5.3  Name Changes
+
+  Group bookings allow flexible name changes up to 72 hours before the
+  scheduled departure of the first segment:
+    - No fee for name changes submitted 72+ hours before departure
+    - Name changes within 72 hours of departure: $50 per name change
+    - Name changes within 24 hours of departure: NOT permitted; the original
+      named passenger must travel, or the seat is forfeited
+
+  Up to 10% of the group size (rounded up) may be removed from the booking
+  without penalty if done at least 14 days before departure. Reductions
+  beyond 10% are subject to a per-seat cancellation fee of $75 (Horizon),
+  $100 (Summit), or $150 (Apex Class).
+
+  EXAMPLE — The Westfield Community Choir:
+  The Westfield Community Choir books 24 Horizon Fare seats on Flight EA-630
+  from Dallas (DFW) to Nashville (BNA) at a published fare of $198 per
+  person. The group discount is 8%, reducing the fare to $182.16 per person.
+  The choir director submits a deposit of 10% ($182.16 x 24 x 10% = $437.18)
+  to hold the group fare for 14 days. Three weeks before departure, 2 members
+  drop out. Since 10% of 24 = 2.4, rounded up to 3, the choir may remove up
+  to 3 members without penalty. The 2 removals are processed at no charge.
+
+A.5.4  Deposit and Payment
+
+  To hold a group fare, a non-refundable deposit of 10% of the total group
+  fare (base fare x number of passengers) is required. The deposit holds the
+  group fare for 14 calendar days.
+
+  Final payment is due no later than 45 days before departure for domestic
+  flights and 60 days before departure for international flights. Failure to
+  remit final payment by the deadline results in automatic cancellation of
+  the group booking, with the deposit forfeited.
+
+  Payment methods: credit card, wire transfer, or corporate check. Personal
+  checks are not accepted for group bookings exceeding $5,000 total.
+
+A.5.5  SkyCredits for Group Travel
+
+  Individual passengers within a group booking earn SkyCredits at the
+  standard rate for the fare class booked, provided each passenger has a
+  Voyager Rewards account number associated with their booking. SkyCredits
+  are credited to individual accounts; there is no group SkyCredits pool.
+  The group booking organizer does NOT earn SkyCredits on behalf of the
+  group unless individually ticketed as a group passenger.
+
+--------------------------------------------------------------------------------
+A.6  CORPORATE ACCOUNTS — EPSILONCONNECT PROGRAM
+--------------------------------------------------------------------------------
+
+The EpsilonConnect program provides negotiated corporate rates, dedicated
+account management, and enhanced reporting for qualifying businesses. The
+program is designed for companies with significant and recurring Epsilon
+Airlines travel.
+
+A.6.1  Eligibility Tiers
+
+  EpsilonConnect Standard:
+    Minimum qualifying volume:  200 annual booked segments
+    Benefits: 3% discount on published Horizon and Summit Fares, quarterly
+    travel spend reports, online booking tool access
+
+  EpsilonConnect Plus:
+    Minimum qualifying volume:  500 annual booked segments
+    Benefits: All Standard benefits, plus a dedicated account manager,
+    5% discount on published Horizon and Summit Fares, 3% discount on Apex
+    Class, monthly reporting, and priority Group Travel Desk access
+
+  EpsilonConnect Premier:
+    Minimum qualifying volume:  1,500 annual booked segments
+    Benefits: All Plus benefits, plus negotiated custom rates (typically
+    8-15% below published fares), dedicated reservations phone line with
+    average hold time under 90 seconds, complimentary Stratosphere Lounge
+    day passes (quantity based on volume), and executive travel concierge
+
+A.6.2  Unused Ticket Credits
+
+  A key feature of EpsilonConnect is credit rollover. Unused ticket credits
+  from cancelled or changed corporate bookings are pooled in the company's
+  EpsilonConnect Credit Bank rather than being tied to individual travelers.
+
+  Credit Bank rules:
+    - Credits roll over indefinitely as long as the EpsilonConnect agreement
+      is active (minimum 12-month agreement term)
+    - Credits may be applied to any future booking by any employee of the
+      company registered in the EpsilonConnect portal
+    - Credits are valued at face value (no depreciation or expiration while
+      the agreement is active)
+    - Upon termination of the EpsilonConnect agreement, unused credits must
+      be used within 90 days or they are forfeited
+
+  EXAMPLE — Riverton Consulting Group:
+  Riverton Consulting Group is an EpsilonConnect Plus member with 620 annual
+  segments. An employee, Daniel, cancels a $412 Horizon Fare ticket. Instead
+  of issuing a credit tied to Daniel, the $412 is deposited in Riverton's
+  Credit Bank. The following week, another employee, Keiko, books a $287
+  Horizon Fare flight. The travel manager applies $287 from the Credit Bank,
+  leaving a $125 balance for future use by any Riverton employee.
+
+A.6.3  Quarterly and Monthly Reporting
+
+  EpsilonConnect members receive detailed reports including:
+    - Total spend by fare class, route, and traveler
+    - Average ticket price versus published fare (savings analysis)
+    - Top 10 routes by volume and spend
+    - SkyCredits earned by individual travelers (summary only; individual
+      account details require traveler consent)
+    - Unused ticket credit balance and aging
+    - On-time performance for the company's most-traveled routes
+
+  Reports are delivered via the EpsilonConnect portal in PDF and CSV formats
+  on the 5th business day following the close of each reporting period.
+
+A.6.4  Corporate SkyCredits Earning
+
+  Employees traveling on EpsilonConnect fares earn SkyCredits to their
+  personal Voyager Rewards accounts at the standard rate for the fare class
+  booked. The EpsilonConnect discount does NOT reduce the SkyCredits earning
+  base; SkyCredits are calculated on the pre-discount published fare.
+
+  EXAMPLE — Nadia:
+  Nadia, a Navigator tier member, travels on a Horizon Fare booked through
+  Riverton Consulting Group's EpsilonConnect Plus account. The published fare
+  is $350; the EpsilonConnect discounted fare is $332.50 (5% discount).
+  Nadia's SkyCredits are calculated on the $350 published fare: $350 x 100%
+  (Horizon base rate) x 1.25 (Navigator multiplier) = 437.5, rounded to 438
+  SkyCredits. Nadia pays nothing additional — the company pays $332.50 —
+  but Nadia earns SkyCredits as if the fare were $350.
+
+A.6.5  Contact and Enrollment
+
+  Companies interested in EpsilonConnect may apply online at
+  www.epsilonairlines.com/corporate or contact the EpsilonConnect sales team
+  at corporate@epsilonairlines.com or 1-800-EPSILON ext. 4 (Corporate
+  Accounts). Initial agreements require a minimum 12-month commitment.
+  Volume commitments are reviewed annually; companies that fall below the
+  minimum qualifying volume for their tier in a given year are moved to the
+  next lower tier at the start of the following agreement year.
+
+================================================================================
+EPSILON AIRLINES — PASSENGER POLICY MANUAL
+SECTION B: BAGGAGE POLICIES
+Effective Date: March 1, 2026
+Revision: 2026-R1
+================================================================================
+
+B.1  CARRY-ON ALLOWANCE
+
+B.1.1  Personal Item
+All passengers, regardless of fare class, are permitted one (1) personal item
+free of charge. The personal item must not exceed 18 x 14 x 8 inches
+(46 x 36 x 20 cm) and must fit entirely beneath the seat in front of the
+passenger. Acceptable personal items include purses, briefcases, small
+backpacks, and laptop bags. Items that do not conform to these dimensions
+will be reclassified as a carry-on bag and subject to applicable fees.
+
+B.1.2  Carry-On Bag
+In addition to the personal item, passengers traveling on Horizon Fare,
+Summit Fare, or Apex Class tickets are entitled to one (1) carry-on bag
+free of charge. The carry-on bag must not exceed 22 x 14 x 9 inches
+(56 x 36 x 23 cm), including handles and wheels. Passengers holding
+Essentials Fare tickets must pay a fee of $35.00 per carry-on bag, payable
+at the time of booking, during online check-in, or at the gate.
+
+    Example: Marco, an Explorer tier member flying on an Essentials Fare from
+    Denver to Miami, brings a laptop bag (personal item, free) and a
+    roller bag measuring 21 x 13 x 9 inches. Because his ticket is
+    Essentials Fare, he is charged $35.00 for the carry-on bag. Had Marco
+    booked a Horizon Fare, the carry-on would have been included at no
+    additional cost.
+
+B.1.3  Gate-Check Policy
+When overhead bin space is exhausted, Epsilon Airlines will gate-check
+carry-on bags at no additional charge. Gate-checked bags are tagged and
+placed in the aircraft cargo hold, then returned to the passenger at the
+jet bridge upon arrival. Gate-checked bags are subject to the same liability
+limits as checked baggage (see Section B.7). Passengers who voluntarily
+gate-check their carry-on bag prior to boarding may receive a $10.00
+SkyCredit bonus deposited to their Voyager Rewards account (see Section C
+for Voyager Rewards details). Fragile or valuable items should be removed
+from gate-checked bags; Epsilon Airlines assumes no liability for damage to
+electronics, eyewear, or other fragile contents in gate-checked luggage.
+
+B.1.4  Carry-On Compliance Enforcement
+Gate agents are authorized to measure carry-on bags using the sizer located
+at each boarding gate. Bags that do not fit the sizer will be checked and
+the applicable fee applied. Passengers who refuse to pay the fee will not
+be permitted to board until the matter is resolved.
+
+--------------------------------------------------------------------------------
+
+B.2  CHECKED BAGGAGE ALLOWANCES BY FARE CLASS
+
+B.2.1  Essentials Fare
+Passengers holding Essentials Fare tickets receive zero (0) complimentary
+checked bags. Fees are as follows:
+    First checked bag:    $35.00
+    Second checked bag:   $50.00
+    Third and each additional checked bag: $75.00 each
+All checked bags must not exceed 50 lbs (23 kg) in weight and 62 linear
+inches (158 cm) in total dimensions (length + width + height).
+
+B.2.2  Horizon Fare
+Passengers holding Horizon Fare tickets receive one (1) complimentary
+checked bag. Additional bags are priced as follows:
+    Second checked bag:   $50.00
+    Third and each additional checked bag: $75.00 each
+Weight and dimension limits identical to B.2.1 apply.
+
+B.2.3  Summit Fare
+Passengers holding Summit Fare tickets receive two (2) complimentary
+checked bags. Additional bags are priced as follows:
+    Third checked bag:    $50.00
+    Fourth and each additional checked bag: $75.00 each
+
+B.2.4  Apex Class
+Passengers holding Apex Class tickets receive three (3) complimentary
+checked bags, each permitted up to 70 lbs (32 kg) per bag. Apex Class
+passengers receive an increased weight allowance reflecting the premium
+nature of the fare. Additional bags beyond the third are charged at $75.00
+each and are subject to the standard 50 lb weight limit unless an overweight
+surcharge is paid (see Section B.3).
+
+B.2.5  Maximum Dimensions for All Checked Bags
+Regardless of fare class, each checked bag must not exceed 62 linear inches
+(length + width + height combined). Bags exceeding this threshold are
+classified as oversized and are subject to the surcharges described in
+Section B.4.
+
+    Example: Priya, a Captain tier member flying on an Essentials Fare,
+    receives 2 complimentary checked bags per her tier benefit (see
+    Section B.8), overriding the Essentials Fare default of 0 free bags.
+    Her third bag would be charged at $75.00, the rate for the third
+    checked bag under Essentials Fare pricing. For a complete description
+    of fare class inclusions, refer to Section A.
+
+B.2.6  Prepaid Baggage Discount
+Passengers who purchase checked baggage allowance at the time of booking or
+during online check-in (at least 24 hours prior to departure) receive a
+$5.00 discount per bag compared to airport counter or gate pricing. This
+discount applies to all fare classes.
+
+--------------------------------------------------------------------------------
+
+B.3  OVERWEIGHT BAGS
+
+B.3.1  Overweight Surcharge Schedule
+Bags exceeding the standard weight limit for the applicable fare class incur
+additional surcharges as follows:
+    51-70 lbs (23-32 kg):    $75.00 surcharge per bag
+    71-100 lbs (32-45 kg):   $150.00 surcharge per bag
+    Over 100 lbs (45 kg):    NOT ACCEPTED — bag must be shipped via
+                              Epsilon Cargo Services or a third-party
+                              freight provider.
+
+B.3.2  Weighing Procedures
+All checked bags are weighed at the check-in counter. Passengers are
+encouraged to weigh bags prior to arrival at the airport. Epsilon Airlines
+provides complimentary bag scales at all hub airport check-in areas
+(Portland, Charlotte, Minneapolis, Austin).
+
+B.3.3  Admiral Tier Overweight Waiver
+Admiral tier members of the Voyager Rewards program receive a waiver of
+the overweight surcharge on their first overweight bag per itinerary. This
+waiver applies to bags weighing up to 70 lbs. Bags weighing 71-100 lbs
+incur the full $150.00 surcharge regardless of loyalty tier. Captain tier
+members also receive an overweight waiver on their first overweight bag
+(see Section B.8 for full loyalty tier baggage benefits).
+
+    Example: Carlos, an Admiral tier member, checks a 62-lb bag on a
+    domestic Horizon Fare itinerary. Normally, this bag would incur a
+    $75.00 overweight surcharge (since 62 lbs falls in the 51-70 lb
+    bracket). However, Carlos's Admiral tier benefit waives this surcharge
+    on his first overweight bag. His second bag, weighing 55 lbs, would
+    still incur the $75.00 surcharge.
+
+--------------------------------------------------------------------------------
+
+B.4  OVERSIZED BAGS
+
+B.4.1  Oversized Surcharge Schedule
+Bags exceeding 62 linear inches incur the following surcharges, applied in
+addition to any standard checked bag fees:
+    63-80 linear inches:     $100.00 surcharge
+    81-115 linear inches:    $200.00 surcharge
+    Over 115 linear inches:  NOT ACCEPTED as checked baggage. Must be
+                              shipped via Epsilon Cargo Services. Contact
+                              cargo@epsilonairlines.com or call
+                              1-800-555-CARGO for arrangements.
+
+B.4.2  Measurement Method
+Linear inches are calculated as the sum of the bag's length, width, and
+height, including wheels, handles, and any external pockets or protrusions.
+Measurements are taken by check-in agents using a calibrated tape measure.
+
+    Example: Tomoko checks a large duffel measuring 34 x 26 x 18 inches
+    (total: 78 linear inches). This falls in the 63-80 linear inch bracket,
+    incurring a $100.00 oversized surcharge in addition to the standard
+    checked bag fee for her fare class.
+
+--------------------------------------------------------------------------------
+
+B.5  SPECIAL ITEMS
+
+B.5.1  Sporting Equipment
+Sporting equipment is accepted as checked baggage subject to the following
+fees (charged in lieu of standard checked bag fees, not in addition to):
+    Golf bags (clubs + bag):       $45.00 per set
+    Skis and snowboards:           $45.00 per item (boot bag included free
+                                    when accompanying ski/snowboard)
+    Bicycles:                      $75.00 per bicycle (must be boxed or in
+                                    a hard-shell case; pedals removed,
+                                    handlebars turned sideways)
+    Surfboards:                    $100.00 per board (max 2 boards per
+                                    passenger; each board up to 80 linear
+                                    inches, boards over 80 inches charged
+                                    $200.00)
+
+    Example: Diego, a Navigator tier member, is traveling from Austin to
+    San Diego with his surfboard (76 linear inches) and one standard
+    checked bag. His Navigator tier grants him 1 free checked bag (base)
+    plus 1 additional free bag (tier benefit, see B.8), so his standard
+    bag is free. The surfboard is charged at $100.00. Note that sporting
+    equipment fees do not count toward checked bag allowance; they are
+    assessed independently. SkyCredits are earned on baggage fees at a
+    rate described in Section C.
+
+B.5.2  Musical Instruments
+Small instruments (violins, guitars, ukuleles, etc.) that conform to
+carry-on dimensions (22 x 14 x 9 inches) may be brought aboard the cabin
+free of charge and stored in the overhead bin. Instruments must be in a
+hard-shell case or a padded gig bag approved by the gate agent.
+
+Large instruments (cellos, basses, large keyboard cases, etc.) that do not
+fit in the overhead bin require the purchase of an additional seat at 75%
+of the applicable fare. The instrument must be secured in the purchased seat
+using the seatbelt and must be in a protective hard-shell case at all times
+during the flight. Passengers should contact Epsilon Airlines reservations
+at least 48 hours prior to departure to arrange instrument seat purchases.
+
+    Example: Ananya, a concert cellist traveling on a Summit Fare ticket
+    priced at $680.00 from Charlotte to Chicago, must purchase an additional
+    seat for her cello at $510.00 (75% of $680.00). The instrument must
+    remain in its hard case and be seatbelted for the duration of the
+    flight.
+
+B.5.3  Fragile Items
+Epsilon Airlines accepts fragile items as checked baggage with the
+understanding that liability is limited to $50.00 per pound of the item's
+weight. Passengers must declare fragile items at check-in and sign a
+Limited Liability Release Form (Form EPS-BAG-07). Fragile items include
+but are not limited to: artwork, ceramics, glassware, antiques, and
+electronic equipment not in manufacturer packaging. Epsilon Airlines
+recommends passengers purchase supplemental baggage insurance through our
+partner, TravelGuard Direct, available at epsilonairlines.com/insurance.
+
+--------------------------------------------------------------------------------
+
+B.6  PET TRAVEL AS BAGGAGE
+
+B.6.1  General Provisions
+For comprehensive pet travel policies, including breed restrictions, health
+documentation requirements, and international pet travel regulations, see
+Section G: Pet and Animal Travel Policy. This subsection addresses baggage-
+specific provisions only.
+
+B.6.2  In-Cabin Pet Travel
+Small dogs and cats may travel in the cabin for a fee of $125.00 one-way.
+A maximum of two (2) pets are permitted in the cabin per flight, allocated
+on a first-come, first-served basis. Reservations for in-cabin pet travel
+must be made at least 48 hours prior to departure by calling Epsilon
+Airlines reservations.
+
+The pet carrier must fit entirely under the seat in front of the passenger
+and may not exceed 17 x 11 x 7.5 inches (43 x 28 x 19 cm). The carrier
+counts as the passenger's personal item; the passenger may still bring a
+carry-on bag subject to applicable fare rules (see B.1.2).
+
+B.6.3  Cargo Pet Travel
+Pets traveling as cargo are charged $250.00 one-way. Pets in cargo must
+be in an IATA-compliant rigid kennel with proper ventilation, absorbent
+liner, and attached food and water dishes. The combined weight of the pet
+and kennel is subject to overweight surcharges (see B.3) if exceeding 50 lbs.
+
+    Example: Fatima is traveling from Minneapolis to Portland with her
+    French Bulldog, weighing 22 lbs in a carrier measuring 16 x 10 x 7
+    inches. The carrier fits under the seat, so she pays $125.00 for
+    in-cabin pet travel. The carrier replaces her personal item. Fatima is
+    flying on a Horizon Fare, so her carry-on bag is still included free.
+
+B.6.4  Service and Emotional Support Animals
+Trained service animals travel free of charge in the cabin and are not
+subject to the in-cabin pet limit. Passengers must submit documentation
+via the Epsilon Airlines Accessibility Desk at least 72 hours prior to
+departure. For complete service animal policies, see Section G.4.
+
+--------------------------------------------------------------------------------
+
+B.7  LOST, DELAYED, AND DAMAGED BAGGAGE CLAIMS
+
+B.7.1  Reporting Requirements
+Passengers must report lost, delayed, or damaged baggage as follows:
+    Domestic flights:        Within 4 hours of arrival at the destination
+    International flights:   Within 21 days of the date of arrival
+
+Reports must be filed at the Epsilon Airlines Baggage Service Office,
+located in the baggage claim area at all Epsilon-served airports, or online
+at epsilonairlines.com/bagclaim using Form EPS-BAG-01.
+
+B.7.2  Domestic Liability
+For domestic flights within the United States and its territories, Epsilon
+Airlines' maximum liability for lost baggage is $3,800.00 per passenger,
+per incident, in accordance with U.S. Department of Transportation
+regulations. This amount applies to the depreciated value of the bag and
+its contents. Epsilon Airlines does not accept liability for jewelry, cash,
+electronics, medications, travel documents, or other high-value items
+packed in checked baggage.
+
+B.7.3  International Liability
+For international flights, liability is governed by the Montreal Convention,
+which limits carrier liability to approximately $1,780.00 per passenger
+(1,288 Special Drawing Rights, converted at prevailing exchange rates).
+This limit applies regardless of the number of bags checked.
+
+B.7.4  Delayed Baggage Reimbursement
+When a checked bag is delayed (not delivered to the passenger at the
+destination within 60 minutes of the flight's arrival at the gate), the
+passenger is entitled to reimbursement for essential items as follows:
+    $50.00 per day for essential purchases (toiletries, undergarments,
+    basic clothing) up to a maximum of 5 days ($250.00 total).
+Receipts must be submitted with the delayed baggage claim form. Essential
+items do not include luxury goods, electronics, or non-essential purchases.
+
+    Example: Kenji's bag is delayed for 3 days on a domestic flight from
+    Austin to Charlotte. He purchases toiletries ($28.00), a change of
+    clothes ($47.00), and socks and undergarments ($19.00) over the three
+    days. Kenji submits his receipts totaling $94.00 via
+    epsilonairlines.com/bagclaim and receives full reimbursement, as the
+    total is under the $50.00/day and $250.00 overall cap.
+
+B.7.5  Damaged Baggage
+Epsilon Airlines will repair or replace checked bags damaged during
+transport, up to a maximum fair market value of $500.00. Damage must be
+reported within the timeframes specified in B.7.1. Cosmetic damage
+(scratches, scuffs, minor dents) and damage resulting from overpacking or
+inherent fragility of the bag are excluded. Wheels, handles, and zippers
+are covered. Passengers must present the damaged bag for inspection at the
+Baggage Service Office.
+
+B.7.6  Claim Resolution Timeline
+Epsilon Airlines will acknowledge all baggage claims within 72 hours of
+submission and will provide a resolution (approval, partial approval, or
+denial with explanation) within 30 calendar days for domestic claims and
+60 calendar days for international claims.
+
+--------------------------------------------------------------------------------
+
+B.8  LOYALTY TIER BAGGAGE BENEFITS
+
+B.8.1  Overview
+Members of the Voyager Rewards program receive enhanced baggage benefits
+based on their tier status. Tier baggage benefits apply in addition to
+fare class allowances and override fare defaults when the tier benefit is
+more generous. For complete tier qualification requirements and other
+benefits, see Section C: Voyager Rewards Program.
+
+B.8.2  Explorer Tier
+No additional baggage benefits beyond the fare class allowance. Explorer
+is the default entry-level tier for all Voyager Rewards members.
+
+B.8.3  Navigator Tier
+    - One (1) additional complimentary checked bag per itinerary,
+      beyond the fare class allowance.
+    - Standard weight limit of 50 lbs per bag applies.
+
+B.8.4  Captain Tier
+    - Two (2) additional complimentary checked bags per itinerary,
+      beyond the fare class allowance.
+    - First overweight bag surcharge waived (for bags up to 70 lbs).
+    - Priority bag tags for expedited baggage delivery at destination.
+
+B.8.5  Admiral Tier
+    - Three (3) additional complimentary checked bags per itinerary,
+      beyond the fare class allowance.
+    - All overweight surcharges waived (for bags up to 70 lbs).
+    - Priority bag tags affixed to all checked bags.
+    - Guaranteed first-off-aircraft bag delivery at hub airports
+      (Portland, Charlotte, Minneapolis, Austin).
+
+    Example: Wei, an Admiral tier member, books an Essentials Fare ticket
+    from Portland to Charlotte. Although the Essentials Fare includes 0
+    free checked bags, Wei's Admiral tier benefit grants him 3 additional
+    complimentary checked bags. He checks 3 bags weighing 48 lbs, 55 lbs,
+    and 63 lbs. The first bag is within standard weight limits. The second
+    and third bags (55 lbs and 63 lbs) would normally incur $75.00
+    overweight surcharges each, but Wei's Admiral status waives all
+    overweight surcharges for bags up to 70 lbs, saving him $150.00. All
+    three bags receive priority bag tags for expedited delivery at
+    Charlotte.
+
+B.8.6  SkyCredit Earning on Baggage Fees
+Baggage fees paid by Voyager Rewards members earn SkyCredits at the base
+rate of 5 SkyCredits per $1.00 spent, regardless of fare class or tier.
+This includes checked bag fees, overweight surcharges, oversized surcharges,
+sporting equipment fees, and pet travel fees. SkyCredits earned on baggage
+fees are posted to the member's account within 72 hours of the flight's
+departure. For complete SkyCredit earning rates and rules, see Section C.2.
+
+    Example: Lucia, a Navigator tier member on a Horizon Fare, checks a
+    third bag ($75.00) and pays an overweight surcharge ($75.00) for a
+    67-lb suitcase. Her total baggage fees are $150.00, earning her 750
+    SkyCredits (150 x 5 SC/$1). These SkyCredits are deposited to her
+    Voyager Rewards account within 72 hours.
+
+================================================================================
+END OF SECTION B — BAGGAGE POLICIES
+Cross-references: Section A (Fare Classes), Section C (Voyager Rewards),
+Section G (Pet and Animal Travel)
+================================================================================
+================================================================================
+EPSILON AIRLINES — PASSENGER POLICY MANUAL
+SECTION C: VOYAGER REWARDS PROGRAM
+Effective Date: March 1, 2026
+Revision: 2026-R1
+================================================================================
+
+C.1  PROGRAM OVERVIEW
+
+C.1.1  General Description
+The Voyager Rewards program is Epsilon Airlines' loyalty program, designed
+to reward frequent travelers with SkyCredits, tier status benefits, and
+exclusive privileges. Membership is free and open to all individuals aged
+18 or older. Members may enroll online at epsilonairlines.com/voyager, via
+the Epsilon Airlines mobile application, or at any Epsilon Airlines ticket
+counter.
+
+C.1.2  Program Currency
+The Voyager Rewards program uses two forms of currency:
+    (a) SkyCredits (SC): The primary earning and redemption currency.
+        SkyCredits are earned through flights, partner purchases, and
+        credit card spending, and may be redeemed for flights, upgrades,
+        merchandise, and experiences.
+    (b) UpLift Tokens: Upgrade-specific tokens awarded to Captain and
+        Admiral tier members. UpLift Tokens are used exclusively for
+        cabin class upgrades (see Section C.6).
+
+C.1.3  Program Participation
+Upon enrollment, members receive a unique nine-digit Voyager Rewards
+identification number. This number must be provided at the time of booking
+or check-in to ensure proper SkyCredit accrual. SkyCredits cannot be
+retroactively credited for flights taken more than 90 days prior to the
+request date. Retroactive credit requests may be submitted at
+epsilonairlines.com/voyager/retrocredit.
+
+    Example: Haruto joins the Voyager Rewards program on April 15 and
+    immediately receives Explorer tier status (the default entry tier).
+    He books a Horizon Fare flight from Minneapolis to Austin for $340.00
+    on April 22. Because he enters his Voyager Rewards number at booking,
+    he earns SkyCredits automatically upon completing the flight (see
+    C.2 for earning rates).
+
+--------------------------------------------------------------------------------
+
+C.2  EARNING SKYCREDITS
+
+C.2.1  Base Earning Rates by Fare Class
+SkyCredits are earned on the base fare amount (excluding government taxes,
+airport fees, and carrier-imposed surcharges) at the following rates:
+    Essentials Fare:     5 SkyCredits per $1.00 spent
+    Horizon Fare:        8 SkyCredits per $1.00 spent
+    Summit Fare:        12 SkyCredits per $1.00 spent
+    Apex Class:         16 SkyCredits per $1.00 spent
+
+For a complete description of fare class inclusions and pricing, refer to
+Section A: Fare Classes and Ticket Types.
+
+C.2.2  Admiral Tier Total Ticket Price Earning
+Admiral tier members earn SkyCredits on the total ticket price, including
+all taxes, fees, and surcharges, rather than the base fare alone. This
+benefit applies to all fare classes and represents a significant earning
+advantage on routes with high tax components, particularly international
+itineraries.
+
+    Example: Beatriz, an Admiral tier member, purchases a Summit Fare
+    ticket from Charlotte to London for $1,450.00 total, of which $1,120.00
+    is the base fare and $330.00 comprises taxes and fees. A non-Admiral
+    member would earn 13,440 SC ($1,120 x 12 SC/$1). Beatriz, however,
+    earns 17,400 SC ($1,450 x 12 SC/$1) because her Admiral status
+    allows earning on the total ticket price — a bonus of 3,960 SC.
+
+C.2.3  Tier Bonus Multipliers
+In addition to the base earning rate, members at Navigator tier and above
+receive a bonus multiplier applied to the SkyCredits earned on each flight:
+    Explorer:    0% bonus (no multiplier)
+    Navigator:  40% bonus
+    Captain:    80% bonus
+    Admiral:   120% bonus
+
+The bonus multiplier is applied after the base SkyCredit calculation.
+
+    Example: Rashid, a Captain tier member, flies on a Horizon Fare ticket
+    with a base fare of $520.00. His base earning is 4,160 SC ($520 x 8
+    SC/$1). His Captain tier bonus adds 80%, yielding 3,328 bonus SC. His
+    total earning for the flight is 7,488 SC (4,160 + 3,328). Compare this
+    to an Explorer member on the same flight, who would earn only 4,160 SC.
+
+C.2.4  Partner Earning
+Voyager Rewards members earn SkyCredits on qualifying purchases with
+Epsilon Airlines partner brands at the following rates:
+    Hotel partners:       3 SkyCredits per $1.00 spent
+    Car rental partners:  2 SkyCredits per $1.00 spent
+    Dining program:       4 SkyCredits per $1.00 spent
+
+Partner earning requires the member to register their Voyager Rewards
+number with each partner program. A current list of partners is maintained
+at epsilonairlines.com/voyager/partners. Tier bonus multipliers (C.2.3)
+do not apply to partner earnings. SkyCredits from partner transactions
+are typically posted within 6-8 weeks of the qualifying purchase.
+
+    Example: Svetlana, a Navigator tier member, stays 4 nights at the
+    Meridian Hotel (an Epsilon partner) for $840.00 total. She earns
+    2,520 SC ($840 x 3 SC/$1) from the hotel stay. Her Navigator tier
+    bonus multiplier does not apply to this partner earning. She also
+    rents a car through Apex Car Rental (an Epsilon partner) for $195.00,
+    earning an additional 390 SC ($195 x 2 SC/$1).
+
+C.2.5  Earning on Ancillary Purchases
+SkyCredits are earned on select ancillary purchases at a flat rate of
+5 SC per $1.00 spent, regardless of fare class or tier. Qualifying
+ancillary purchases include:
+    - Checked baggage fees (see Section B.8.6)
+    - Seat selection fees (SkyStretch Seats and preferred seats)
+    - In-flight Wi-Fi purchases
+    - Onboard food and beverage purchases on flights over 3 hours
+Non-qualifying ancillary purchases include change/cancellation fees,
+same-day standby fees, and unaccompanied minor service fees.
+
+--------------------------------------------------------------------------------
+
+C.3  EPSILON VOYAGER CREDIT CARD EARNING
+
+C.3.1  Standard Epsilon Voyager Credit Card
+The Standard Epsilon Voyager Credit Card, issued in partnership with
+Atlantic Federal Bank, offers the following SkyCredit earning structure:
+    Base purchases (all categories):       1.5 SkyCredits per $1.00 spent
+    Epsilon Airlines purchases:            3 SkyCredits per $1.00 spent
+    Travel purchases (non-Epsilon):        2 SkyCredits per $1.00 spent
+    Sign-up bonus:                         60,000 SkyCredits after
+                                           $4,000.00 in qualifying spend
+                                           within the first 90 days of
+                                           account opening.
+
+The Standard card carries no annual fee for the first year; $95.00 per year
+thereafter. Cardholders receive one complimentary checked bag on Epsilon
+Airlines flights when the ticket is purchased with the card (applied
+automatically at check-in when the Voyager Rewards number is linked).
+
+C.3.2  Premium Epsilon Voyager Credit Card
+The Premium Epsilon Voyager Credit Card offers elevated earning and
+benefits for an annual fee of $495.00:
+    Base purchases (all categories):       2 SkyCredits per $1.00 spent
+    Epsilon Airlines purchases:            5 SkyCredits per $1.00 spent
+    Travel purchases (non-Epsilon):        3 SkyCredits per $1.00 spent
+    Annual SkyCredit bonus:                15,000 SkyCredits deposited on
+                                           the card anniversary date
+    Annual travel credit:                  $200.00 statement credit for
+                                           Epsilon Airlines purchases
+    Sign-up bonus:                         90,000 SkyCredits after
+                                           $5,000.00 in qualifying spend
+                                           within the first 90 days.
+
+Premium cardholders also receive two (2) complimentary checked bags on
+Epsilon Airlines flights, Stratosphere Lounge access when flying Epsilon
+(regardless of fare class), and Global Entry / TSA PreCheck fee credit
+($100.00 every 4 years).
+
+    Example: Nadia holds the Premium Epsilon Voyager Credit Card and
+    charges $2,200.00 in Epsilon Airlines purchases during the year and
+    $18,000.00 in other spending. Her annual SkyCredit earning from the
+    card alone is: $2,200 x 5 SC/$1 = 11,000 SC (Epsilon purchases) +
+    $18,000 x 2 SC/$1 = 36,000 SC (base purchases) + 15,000 SC (annual
+    bonus) = 62,000 SC total. Combined with her flight earnings, this
+    accelerates her path to higher tier status.
+
+C.3.3  Credit Card SkyCredits and Tier Qualification
+SkyCredits earned through Epsilon Voyager Credit Card spending do not
+count as Tier Qualifying SkyCredits (TQSC) for the purpose of tier
+advancement (see Section C.4). Only SkyCredits earned from Epsilon Airlines
+flights count toward TQSC. Credit card SkyCredits are, however, fully
+redeemable for flights, upgrades, merchandise, and experiences.
+
+--------------------------------------------------------------------------------
+
+C.4  TIER QUALIFICATION
+
+C.4.1  Qualification Metrics
+Tier status in the Voyager Rewards program is determined by two metrics,
+of which a member must meet at least one to qualify:
+    (a) Tier Qualifying Flights (TQF): The number of qualifying flight
+        segments flown on Epsilon Airlines marketed and operated flights.
+        Codeshare flights operated by partner airlines do not count as TQF
+        unless specifically noted in the partner agreement.
+    (b) Tier Qualifying SkyCredits (TQSC): SkyCredits earned exclusively
+        from Epsilon Airlines flights. Partner earnings, credit card
+        earnings, and promotional SkyCredits do not count toward TQSC.
+
+C.4.2  Tier Thresholds
+    Explorer:     0 TQF  /       0 TQSC  (default upon enrollment)
+    Navigator:   25 TQF  or  30,000 TQSC
+    Captain:     50 TQF  or  75,000 TQSC
+    Admiral:     85 TQF  or 140,000 TQSC
+
+C.4.3  Qualification Year
+The Voyager Rewards qualification year runs from March 1 through the last
+day of February of the following year (February 28 or February 29 in leap
+years). TQF and TQSC accumulators reset to zero at the beginning of each
+qualification year.
+
+C.4.4  Status Duration
+Members who achieve a tier status during a qualification year retain that
+status for the remainder of the qualification year plus the entirety of
+the following qualification year. This ensures a minimum of 12 months and
+a maximum of approximately 24 months of tier benefits.
+
+    Example: Yuki earns her 25th TQF on September 18, 2026, qualifying
+    for Navigator tier. Her Navigator status activates immediately and
+    remains valid through the end of the following qualification year
+    (February 28, 2028). To retain Navigator status beyond that date,
+    she must re-qualify during the March 2027 - February 2028
+    qualification year.
+
+C.4.5  Tier Status Match and Challenge
+Epsilon Airlines offers a one-time status match for members of competing
+airline loyalty programs. Matched members receive a 90-day status challenge
+during which they must earn 50% of the TQSC required for the matched tier
+to retain status. Status match requests may be submitted at
+epsilonairlines.com/voyager/statusmatch with proof of current status in the
+competing program.
+
+C.4.6  Lifetime Status
+Members who accumulate 2,000,000 lifetime SkyCredits (earned from Epsilon
+flights only) are awarded permanent Admiral tier status, which does not
+require annual requalification.
+
+--------------------------------------------------------------------------------
+
+C.5  TIER BENEFITS
+
+C.5.1  Comprehensive Tier Benefits Table
+
+Benefit                         Explorer    Navigator    Captain      Admiral
+─────────────────────────────────────────────────────────────────────────────
+SkyCredit Bonus Multiplier        0%          40%         80%         120%
+Complimentary Upgrades            No          Standby     Confirmed   Confirmed
+                                              (24 hrs)    (48 hrs)    (72 hrs)
+Stratosphere Lounge Access        No          No          Yes (+1      Yes (+2
+                                                          guest)       guests)
+Additional Free Checked Bags      0           +1          +2          +3
+Overweight Bag Waiver (<=70lb)    No          No          1st bag     All bags
+Priority Bag Tags                 No          No          Yes         Yes
+Priority Check-In                 No          Yes         Yes         Yes
+Priority Security Lane            No          No          Yes         Yes
+Priority Boarding (Zone)          Zone 5      Zone 3      Zone 2      Zone 1
+Dedicated Phone Line              No          No          Yes         Yes
+                                                          (avg 4 min) (avg 1 min)
+Complimentary SkyStretch Seats    No          No          Yes         Yes
+                                                          (48 hrs     (at booking)
+                                                          prior)
+Confirmed CloudDeck Upgrades      No          No          No          72 hrs
+                                                                      prior
+UpLift Tokens (Annual)            0           0           4           8
+SkyCredit Expiration Waiver       No          No          No          Yes
+Same-Day Standby (free)           No          No          Yes         Yes
+Same-Day Confirmed Change         No          No          $75         Free
+
+C.5.2  Complimentary Upgrade Details
+Navigator members are placed on the upgrade standby list automatically
+24 hours prior to departure and may be upgraded to the next cabin class
+if seats are available at departure. Captain members receive confirmed
+upgrades 48 hours prior to departure, subject to availability. Admiral
+members receive confirmed upgrades 72 hours prior to departure and have
+the highest upgrade priority among all loyalty tiers. Upgrades apply as
+follows: Essentials/Horizon to Summit (SkyStretch Seats), or Summit to
+Apex (CloudDeck Suite). See Section E for complete upgrade policies.
+
+    Example: Mikhail, a Captain tier member, is booked on a Horizon Fare
+    from Portland to Minneapolis. 48 hours before departure, the system
+    checks for available Summit Fare seats. Two Summit seats are available,
+    and Mikhail is the highest-priority Captain member on the upgrade list.
+    He receives a confirmed complimentary upgrade to Summit, gaining access
+    to SkyStretch Seats and 2 complimentary checked bags for the flight.
+
+C.5.3  Stratosphere Lounge Access
+Captain tier members receive complimentary access to the Stratosphere
+Lounge at all Epsilon hub airports (Portland, Charlotte, Minneapolis,
+Austin) when flying on an Epsilon-operated flight departing that day. One
+guest may accompany the Captain member. Admiral tier members receive
+Stratosphere Lounge access with up to two guests. Day passes for non-
+qualifying passengers are available for purchase at $65.00 per person.
+
+--------------------------------------------------------------------------------
+
+C.6  UPLIFT TOKENS
+
+C.6.1  Token Allocation
+UpLift Tokens are awarded to qualifying tier members as follows:
+    Captain tier:    4 UpLift Tokens per qualification year
+    Admiral tier:    8 UpLift Tokens per qualification year
+
+Tokens are deposited into the member's Voyager Rewards account on the date
+the member achieves or renews the qualifying tier status.
+
+C.6.2  Token Redemption Values
+UpLift Tokens may be redeemed for cabin class upgrades on Epsilon Airlines
+operated flights:
+    Horizon Fare to Summit Fare (SkyStretch Seats):    1 UpLift Token
+    Summit Fare to Apex Class (CloudDeck Suite):       2 UpLift Tokens
+    Horizon Fare to Apex Class (CloudDeck Suite):      3 UpLift Tokens
+
+Essentials Fare tickets are not eligible for UpLift Token upgrades.
+Passengers on Essentials Fare must first change to Horizon Fare (difference
+in fare applies, see Section A) before redeeming UpLift Tokens.
+
+C.6.3  Token Validity and Restrictions
+    - UpLift Tokens are valid for 12 months from the date of issue.
+    - UpLift Tokens are non-transferable and may only be used by the
+      account holder.
+    - UpLift Tokens may not be combined with SkyCredit upgrade redemptions
+      on the same itinerary.
+    - Upgrade requests using UpLift Tokens are confirmed 72 hours prior
+      to departure, subject to availability in the upgrade cabin.
+    - A maximum of 3 UpLift Tokens may be redeemed per one-way itinerary.
+    - Unused tokens expire at the end of their 12-month validity period
+      and are not refundable or extendable.
+
+    Example: Isabelle, an Admiral tier member, receives 8 UpLift Tokens
+    on March 1 when her Admiral status renews. She books a Horizon Fare
+    round-trip from Austin to London. For the outbound flight, she redeems
+    3 UpLift Tokens to upgrade from Horizon directly to Apex Class
+    (CloudDeck Suite). For the return flight, she redeems 1 UpLift Token
+    to upgrade from Horizon to Summit (SkyStretch Seats). She has used
+    4 of her 8 tokens, with 4 remaining, valid through February 28 of the
+    following year.
+
+C.6.4  Token Upgrade Priority
+When multiple members request UpLift Token upgrades for the same flight,
+priority is determined in the following order: (1) Admiral tier over
+Captain tier, (2) earlier redemption request date, (3) higher lifetime
+SkyCredit balance. In the event of a tie across all three factors, the
+member with the lower Voyager Rewards ID number receives priority.
+
+--------------------------------------------------------------------------------
+
+C.7  SKYCREDIT REDEMPTION
+
+C.7.1  Flight Redemptions
+SkyCredits may be redeemed for award flights on Epsilon Airlines operated
+flights. The following redemption rates apply for one-way travel in
+Horizon Fare class (the base redemption cabin):
+    Domestic (continental U.S.):       12,500 SkyCredits one-way
+    Transatlantic (U.S. to Europe):    30,000 SkyCredits one-way
+    Transpacific (U.S. to Asia):       40,000 SkyCredits one-way
+    Caribbean / Mexico:                15,000 SkyCredits one-way
+    South America:                     25,000 SkyCredits one-way
+
+Higher cabin award pricing:
+    Summit Fare award:    1.5x the Horizon Fare SkyCredit rate
+    Apex Class award:     2.5x the Horizon Fare SkyCredit rate
+
+    Example: Olumide wishes to redeem SkyCredits for a round-trip Apex
+    Class ticket from Charlotte to London. The one-way Horizon base rate
+    is 30,000 SC for transatlantic flights. Apex Class is priced at 2.5x,
+    so each direction costs 75,000 SC. His round-trip award ticket
+    requires 150,000 SC total. Taxes and fees of approximately $86.00
+    still apply and must be paid in cash or with a linked payment method.
+
+C.7.2  Upgrade Redemptions
+SkyCredits may be used to upgrade a purchased ticket to a higher cabin
+class. Upgrade redemption rates vary by route and cabin:
+    Domestic Horizon to Summit:           8,000 SC one-way
+    Domestic Summit to Apex:             15,000 SC one-way
+    International Horizon to Summit:     15,000 SC one-way
+    International Summit to Apex:        25,000 SC one-way
+Upgrade redemptions are subject to availability and must be requested at
+least 24 hours prior to departure via epsilonairlines.com/voyager/upgrades
+or by calling the Voyager Rewards service line.
+
+C.7.3  Merchandise Redemptions
+SkyCredits may be redeemed for merchandise through the Voyager Rewards
+online store at epsilonairlines.com/voyager/store. The redemption value
+for merchandise is:
+    1 SkyCredit = $0.008 (i.e., 125 SkyCredits = $1.00 in merchandise
+    value)
+
+Merchandise categories include travel accessories, electronics, apparel,
+gift cards, and Epsilon Airlines branded items. Merchandise orders are
+processed within 5-7 business days and shipped to the member's address
+on file.
+
+    Example: Rosa has accumulated 45,000 SkyCredits and wishes to redeem
+    some for a set of noise-canceling headphones valued at $280.00 in the
+    Voyager Rewards store. She would need 35,000 SC ($280.00 / $0.008) to
+    complete the redemption, leaving her with 10,000 SC in her account.
+
+C.7.4  Experience Redemptions
+Voyager Rewards members may redeem SkyCredits for exclusive experiences
+offered periodically by Epsilon Airlines:
+    Airport behind-the-scenes tours:      15,000 SkyCredits
+    Flight simulator experiences:          25,000 SkyCredits
+    Meet-the-crew cockpit visits
+      (pre-departure, select airports):   20,000 SkyCredits
+    Charity auction experiences:           30,000 - 50,000 SkyCredits
+    VIP airport lounge events:             15,000 SkyCredits
+
+Experience availability varies by location and season. Members may browse
+and book available experiences at epsilonairlines.com/voyager/experiences.
+All experience redemptions are non-refundable once confirmed.
+
+C.7.5  Minimum Redemption and SkyCredit + Cash
+The minimum SkyCredit redemption for award flights is 5,000 SC. Members
+with insufficient SkyCredits for a full award redemption may use the
+SkyCredits + Cash option, where a minimum of 5,000 SC must be applied,
+and the remaining balance is charged at a rate of $0.012 per SkyCredit
+shortfall. This option is available for flight redemptions only, not for
+upgrades, merchandise, or experiences.
+
+    Example: Tomasz wishes to book a domestic award flight requiring
+    12,500 SC but has only 8,000 SC. Using SkyCredits + Cash, he applies
+    his 8,000 SC and pays ($0.012 x 4,500) = $54.00 in cash for the
+    remaining 4,500 SC shortfall, plus applicable taxes and fees.
+
+--------------------------------------------------------------------------------
+
+C.8  SKYCREDIT EXPIRATION
+
+C.8.1  Standard Expiration Policy
+SkyCredits expire after twenty-four (24) consecutive months of account
+inactivity. Account activity is defined as any of the following:
+    - Earning SkyCredits from an Epsilon Airlines flight
+    - Earning SkyCredits from a partner transaction
+    - Earning SkyCredits from Epsilon Voyager Credit Card spending
+    - Redeeming SkyCredits for any purpose (flights, upgrades,
+      merchandise, or experiences)
+
+Any single qualifying activity resets the 24-month inactivity clock. The
+new expiration date becomes 24 months from the date of the most recent
+qualifying activity.
+
+C.8.2  Admiral Tier Expiration Waiver
+Admiral tier members are exempt from SkyCredit expiration for as long as
+they maintain Admiral status. If an Admiral member is downgraded to a lower
+tier (due to failure to requalify), the standard 24-month expiration policy
+takes effect starting from the date of the tier downgrade. SkyCredits
+accumulated during Admiral tenure are not retroactively expired.
+
+    Example: Gabriel maintained Admiral status for 3 consecutive years,
+    accumulating 520,000 SkyCredits. During this period, his SkyCredits
+    never expired. On March 1, 2027, Gabriel fails to requalify and is
+    downgraded to Captain tier. His 520,000 SkyCredits remain in his
+    account, but the 24-month expiration clock begins on March 1, 2027.
+    If Gabriel takes no qualifying earning or redemption action before
+    March 1, 2029, his SkyCredits will expire. However, any activity
+    (even a small partner purchase) before that date resets the clock.
+
+C.8.3  Expiration Notifications
+Epsilon Airlines sends expiration warning notifications to members via
+email and the Epsilon Airlines mobile app at the following intervals:
+    - 90 days before SkyCredit expiration
+    - 30 days before SkyCredit expiration
+    - 7 days before SkyCredit expiration
+
+Members are responsible for maintaining current contact information in
+their Voyager Rewards profile to ensure receipt of notifications.
+
+C.8.4  Expired SkyCredits
+Once SkyCredits have expired, they cannot be reinstated. Epsilon Airlines
+does not offer any mechanism for purchasing, restoring, or extending
+expired SkyCredits. Members who believe their SkyCredits were expired in
+error may submit a dispute within 30 days of expiration to
+voyagerrewards@epsilonairlines.com.
+
+C.8.5  Account Dormancy and Closure
+Accounts with no activity for 36 consecutive months (12 months beyond
+SkyCredit expiration) are classified as dormant and may be closed. Closed
+accounts lose all accumulated TQF and lifetime SkyCredit history. Members
+may reactivate a dormant account within 60 days of closure notification
+by logging into their account or contacting the Voyager Rewards service
+center. After 60 days, the account is permanently closed and the member
+must re-enroll as a new Explorer tier member.
+
+================================================================================
+END OF SECTION C — VOYAGER REWARDS PROGRAM
+Cross-references: Section A (Fare Classes), Section B (Baggage Policies),
+Section E (Upgrades and Cabin Classes)
+================================================================================
+================================================================================
+EPSILON AIRLINES — PASSENGER POLICY HANDBOOK
+SECTION D: BOOKING CHANGES, CANCELLATIONS & REFUNDS
+Effective: March 1, 2026 | Document Revision 4.2
+================================================================================
+
+D.1  24-HOUR FREE CANCELLATION POLICY
+--------------------------------------------------------------------------------
+
+D.1.1  Epsilon Airlines provides a full refund on any fare class — Essentials
+       Fare, Horizon Fare, Summit Fare, or Apex Class — when the cancellation
+       is made within 24 hours of the original booking time, provided the
+       departure date is seven (7) or more days from the date of booking.
+
+D.1.2  Refunds under this provision are returned to the original form of
+       payment. Credit card refunds are processed within 7 business days;
+       debit card refunds within 10 business days. Bookings paid with
+       SkyCredits are refunded to the passenger's Voyager Rewards account
+       within 24 hours.
+
+D.1.3  The 24-hour cancellation may be initiated through:
+       (a) epsilon-air.com under "Manage Booking" > "Cancel Reservation";
+       (b) the Epsilon Airlines mobile application;
+       (c) calling Epsilon Reservations at 1-800-EPSILON (1-800-377-4566).
+
+D.1.4  This policy does not apply to bookings made fewer than 7 days before
+       scheduled departure. Such bookings are governed by the standard
+       cancellation rules in Section D.4.
+
+       EXAMPLE: Priya books a Horizon Fare on January 5 for a flight
+       departing February 20. She cancels on January 6 at 11:00 AM — 18 hours
+       after booking. Because her departure is more than 7 days away, she
+       receives a full refund of $412 to her Visa card within 7 business days.
+
+       EXAMPLE: Marcus books an Essentials Fare on March 10 for a flight on
+       March 14 — only 4 days out. Even if he cancels within 24 hours, the
+       standard Essentials cancellation rules in D.4.1 apply, not the free
+       cancellation policy.
+
+
+D.2  CHANGE FEES BY FARE CLASS
+--------------------------------------------------------------------------------
+
+D.2.1  Essentials Fare Changes
+       (a) Change fee: $99 per passenger, per direction, plus any fare
+           difference between the original and new itinerary.
+       (b) Changes are not permitted within 24 hours of scheduled departure.
+           Passengers must cancel under Section D.4 and rebook.
+       (c) If the new fare is lower than the original fare, no credit, refund,
+           or residual value is provided for the difference. The $99 fee still
+           applies.
+
+       EXAMPLE: Tomás books an Essentials Fare for $189 one-way. He wants to
+       change to a flight priced at $230. He pays $99 (change fee) + $41
+       (fare difference) = $140 total. If the new flight were priced at $150,
+       Tomás still pays the $99 change fee and forfeits the $39 difference.
+
+D.2.2  Horizon Fare Changes
+       (a) Change fee: $49 per passenger, per direction, plus any fare
+           difference.
+       (b) Voyager Rewards members at Navigator tier or above: change fee is
+           waived ($0). Fare difference still applies.
+       (c) If the new fare is lower, the difference is issued as an Epsilon
+           travel credit valid for 12 months (see Section D.8 for credit
+           validity rules).
+
+       EXAMPLE: Anika, a Navigator-tier member, books a Horizon Fare for $340
+       and wants to change to a $290 flight. Her change fee is $0 (waived for
+       Navigator+). She receives a $50 travel credit valid 12 months.
+
+D.2.3  Summit Fare Changes
+       (a) Change fee: $0. Passenger pays only the fare difference if the new
+           fare is higher.
+       (b) If the new fare is lower, the difference is refunded to the
+           original form of payment within 10 business days.
+
+D.2.4  Apex Class Changes
+       (a) Change fee: $0. Unlimited changes permitted.
+       (b) If the new fare is lower, the difference is refunded to the
+           original form of payment within 7 business days.
+       (c) Apex Class changes may be made up to 1 hour before departure,
+           including same-day changes at no charge (see also Section D.3).
+
+D.2.5  All change requests are subject to availability on the new flight.
+       Fare differences are calculated based on the fare at the time of the
+       change, not at the time of original booking. See Section A for
+       complete fare class definitions and rules.
+
+
+D.3  SAME-DAY CHANGES
+--------------------------------------------------------------------------------
+
+D.3.1  Same-day confirmed changes and same-day standby are available for
+       passengers holding Horizon Fare, Summit Fare, or Apex Class tickets.
+       Essentials Fare passengers are not eligible for same-day changes.
+
+D.3.2  Same-Day Confirmed Change Fee:
+       (a) Captain or Admiral tier: $0.
+       (b) All other eligible passengers: $75 per person, per direction.
+       (c) Apex Class passengers: $0 regardless of tier status.
+
+D.3.3  Requirements for same-day changes:
+       (a) The new flight must depart on the same calendar date.
+       (b) Origin and destination airports must remain the same.
+       (c) The request must be made at least 1 hour before the original
+           flight's departure.
+       (d) Subject to seat availability in the same or lower fare cabin.
+
+D.3.4  Same-Day Standby:
+       (a) Navigator, Captain, and Admiral tier members may request same-day
+           standby at no charge.
+       (b) Explorer tier and non-members on Horizon+ fares: $30.
+       (c) Standby passengers are cleared in tier order, then by check-in
+           time, beginning 30 minutes before departure.
+
+       EXAMPLE: Julian holds a Horizon Fare ticket for the 6:00 PM departure
+       and is a Captain-tier member. He arrives early and requests a same-day
+       confirmed change to the 2:00 PM flight. His fee is $0. If the 2:00 PM
+       is full, he may be placed on standby, also at no charge.
+
+
+D.4  CANCELLATION & REFUND RULES
+--------------------------------------------------------------------------------
+
+D.4.1  Essentials Fare Cancellation
+       (a) No cash refund is available.
+       (b) A travel credit is issued for the ticket value minus a $99
+           cancellation fee.
+       (c) Travel credits are valid for 12 months from the cancellation date.
+       (d) Travel credits may be used by any passenger originally named on
+           the booking (see Section D.4.5).
+
+       EXAMPLE: Dara cancels her $220 Essentials Fare. She receives a travel
+       credit of $121 ($220 - $99 fee), valid until the same date the
+       following year.
+
+D.4.2  Horizon Fare Cancellation
+       (a) Refund to original form of payment, minus a $75 cancellation fee.
+       (b) Refund processed within 10 business days for credit cards, 20
+           business days for debit cards.
+
+       EXAMPLE: Riko cancels his $380 Horizon Fare. He receives a refund of
+       $305 ($380 - $75) to his original credit card.
+
+D.4.3  Summit Fare Cancellation
+       (a) Full refund to original form of payment with no deductions.
+       (b) Refund processed within 7 business days.
+
+D.4.4  Apex Class Cancellation
+       (a) Full refund to original form of payment with no deductions.
+       (b) Refund processed within 5 business days.
+       (c) Any UpLift Tokens used for upgrades associated with the booking
+           are returned to the passenger's Voyager Rewards account within
+           24 hours (see Section C.6 for UpLift Token policies).
+
+D.4.5  Travel Credit Transferability
+       Travel credits issued under Sections D.4.1 or D.2.2 may be applied
+       toward a new booking for any passenger who was named on the original
+       reservation. Credits are not transferable to passengers who were not
+       part of the original booking. Credits cannot be combined with other
+       travel credits on a single transaction.
+
+
+D.5  INVOLUNTARY CHANGES (AIRLINE-INITIATED)
+--------------------------------------------------------------------------------
+
+D.5.1  Schedule Change Greater Than 60 Minutes
+       When Epsilon Airlines modifies a flight schedule by more than 60
+       minutes (departure or arrival), the affected passenger is entitled to:
+       (a) A full refund to the original form of payment, regardless of fare
+           class, processed within 7 business days; OR
+       (b) Free rebooking on any available Epsilon Airlines flight within 7
+           days of the original travel date, at no fare difference.
+
+D.5.2  Schedule Change Between 30 and 60 Minutes
+       (a) Passengers are offered rebooking on the next available Epsilon
+           Airlines flight at no additional cost.
+       (b) No refund is available under this provision unless the passenger
+           also qualifies under Section D.5.1.
+
+D.5.3  Schedule Change Less Than 30 Minutes
+       (a) No compensation or rebooking assistance is provided.
+       (b) The passenger's itinerary is automatically updated.
+
+D.5.4  Equipment Swap Resulting in Cabin Downgrade
+       If an aircraft substitution results in a downgrade (e.g., a passenger
+       booked in CloudDeck Suite is re-accommodated in SkyStretch Seats),
+       Epsilon Airlines will:
+       (a) Refund the fare difference between the original cabin and the
+           downgraded cabin, processed within 10 business days.
+       (b) Credit 500 SkyCredits to the passenger's Voyager Rewards account
+           as a goodwill gesture, posted within 48 hours.
+
+       EXAMPLE: Mei is booked in Apex Class on a flight that undergoes an
+       equipment swap. The replacement aircraft has no CloudDeck Suite. Mei
+       is moved to a SkyStretch Seat. She receives the fare difference of
+       $614 refunded to her card plus 500 SkyCredits in her Voyager Rewards
+       account.
+
+
+D.6  WEATHER & FORCE MAJEURE EVENTS
+--------------------------------------------------------------------------------
+
+D.6.1  When Epsilon Airlines cancels or significantly delays a flight due to
+       weather, natural disaster, air traffic control directives, government
+       orders, civil unrest, or other events beyond the airline's control
+       ("Force Majeure Events"), the following provisions apply.
+
+D.6.2  Fee-Free Rebooking
+       (a) All passengers, regardless of fare class, may rebook on any
+           available Epsilon Airlines flight within 14 calendar days of the
+           original travel date at no charge and no fare difference.
+       (b) If no suitable flights are available within 14 days, a travel
+           credit for the full fare value is issued, valid 12 months.
+
+D.6.3  Travel Credit Option
+       Passengers who choose not to rebook receive a travel credit for the
+       full ticket value, valid for 12 months from the date of issuance.
+       Standard travel credit rules (Section D.8) apply.
+
+D.6.4  Hotel and Meal Vouchers
+       (a) Epsilon Airlines does not provide hotel accommodations or meal
+           vouchers for disruptions caused by Force Majeure Events.
+       (b) Courtesy exception: Captain and Admiral tier members affected by
+           a Force Majeure cancellation receive a $50 Epsilon meal voucher
+           redeemable at airport restaurants within the Epsilon partner
+           network. The voucher is loaded to the passenger's Voyager Rewards
+           digital wallet within 2 hours of the cancellation notice.
+
+       EXAMPLE: A severe storm cancels Flight EA-412. All passengers may
+       rebook free within 14 days. Kwame, an Admiral-tier member, receives
+       a $50 meal voucher automatically. His travel companion, Lena, who is
+       an Explorer-tier member, does not receive a voucher but may rebook at
+       no charge.
+
+
+D.7  NAME CHANGES
+--------------------------------------------------------------------------------
+
+D.7.1  Minor Corrections (Typographical Errors)
+       (a) Corrections of up to 3 characters in a passenger's first or last
+           name are permitted free of charge.
+       (b) Must be requested at least 24 hours before scheduled departure.
+       (c) Can be processed online under "Manage Booking" or by calling
+           1-800-EPSILON.
+
+D.7.2  Full Name Changes
+       (a) Complete name changes (e.g., transferring a ticket to a different
+           person) are not permitted after booking confirmation.
+       (b) Passengers requiring a name change must cancel the existing booking
+           under the applicable rules in Section D.4 and create a new booking.
+
+D.7.3  Middle Name and Suffix Changes
+       (a) Addition, removal, or correction of a middle name or suffix
+           (Jr., Sr., III, etc.) is permitted at any time before departure
+           at no charge.
+       (b) These changes can be made online, via the mobile app, or by phone.
+
+       EXAMPLE: Gabriella accidentally books her ticket as "Gabriela Santos"
+       (missing one "l"). She submits a correction request 3 days before
+       departure. Since it is a 1-character correction made more than 24
+       hours in advance, it is processed free of charge. Her colleague, who
+       booked under the wrong first name entirely, must cancel and rebook.
+
+
+D.8  TICKET VALIDITY & TRAVEL CREDIT EXPIRATION
+--------------------------------------------------------------------------------
+
+D.8.1  All Epsilon Airlines tickets are valid for travel commencing within
+       12 months from the date of issue. Tickets not used within this period
+       are forfeited with no refund, except as noted in D.8.4.
+
+D.8.2  Travel credits issued under Sections D.2.2, D.4.1, D.6.2, or D.6.3
+       are valid for 12 months from the date of cancellation or issuance.
+       The new booking must be completed (not necessarily traveled) before
+       the credit expiration date.
+
+D.8.3  Travel credits are non-refundable and cannot be converted to
+       SkyCredits, UpLift Tokens, or cash. They can only be applied toward
+       the base fare of a new Epsilon Airlines booking (taxes and fees must
+       be paid separately).
+
+D.8.4  Reinstatement of Expired Credits (Admiral Tier Only)
+       (a) Admiral-tier Voyager Rewards members may reinstate expired travel
+           credits within 30 calendar days of the expiration date.
+       (b) A reinstatement fee of $50 applies per credit.
+       (c) Reinstated credits are valid for an additional 6 months from the
+           reinstatement date.
+       (d) Each credit may be reinstated only once.
+
+       EXAMPLE: Chen, an Admiral-tier member, has a $275 travel credit that
+       expired on September 15. On October 3 — 18 days after expiration — he
+       calls 1-800-EPSILON and pays the $50 reinstatement fee. His credit of
+       $275 is reactivated and now expires on April 3 of the following year.
+       His friend Sofia, a Captain-tier member, has a credit that expired the
+       same day; she is not eligible for reinstatement.
+
+
+================================================================================
+CROSS-REFERENCES
+  - Section A: Fare Class Definitions & Booking Rules
+  - Section C: Voyager Rewards Program, Tier Benefits & UpLift Tokens
+  - Section F: Refund Processing Timelines & Disputes
+================================================================================
+END OF SECTION D
+================================================================================
+================================================================================
+EPSILON AIRLINES — PASSENGER POLICY HANDBOOK
+SECTION E: UPGRADES & SEAT SELECTION
+Effective: March 1, 2026 | Document Revision 4.2
+================================================================================
+
+E.1  SEAT CATEGORIES
+--------------------------------------------------------------------------------
+
+E.1.1  Standard Seats
+       (a) Seat pitch: 31-32 inches, width: 17.2-17.8 inches.
+       (b) Available on all aircraft types in the main cabin, rows 15-38
+           (varies by equipment).
+       (c) Included at no additional charge for Horizon Fare, Summit Fare,
+           and Apex Class passengers. Essentials Fare passengers are assigned
+           a Standard Seat at check-in (see Section E.2.1).
+
+E.1.2  Preferred Seats
+       (a) Aisle and window seats in rows 6-14 of the main cabin, offering
+           the same pitch as Standard Seats but with priority boarding
+           proximity and quicker deplaning.
+       (b) Surcharge: $15-$45 per segment, depending on route distance.
+           Routes under 1,000 miles: $15. Routes 1,000-2,000 miles: $30.
+           Routes over 2,000 miles: $45.
+       (c) Complimentary for Captain and Admiral tier members on any fare
+           class except Essentials Fare (see Section C for tier benefits).
+
+E.1.3  SkyStretch Seats
+       (a) Seat pitch: 34-36 inches, width: 18.0-18.5 inches.
+       (b) Located in rows 1-5 of the main cabin on most aircraft, or in a
+           dedicated SkyStretch cabin on wide-body equipment.
+       (c) Surcharge: $45-$89 per segment depending on route distance.
+           Routes under 1,500 miles: $45. Routes 1,500-3,000 miles: $65.
+           Routes over 3,000 miles: $89.
+       (d) Included at no additional charge for Summit Fare passengers.
+       (e) Captain-tier members: 50% discount on SkyStretch surcharge when
+           purchasing on Horizon Fare. Admiral-tier members: complimentary
+           SkyStretch selection on Horizon Fare.
+
+E.1.4  CloudDeck Suite
+       (a) Lie-flat seat with 78-inch bed length, 22-inch width, direct
+           aisle access in 1-2-1 configuration.
+       (b) Available on wide-body aircraft operating routes over 2,500 miles
+           and select high-demand transcontinental routes.
+       (c) Included exclusively with Apex Class bookings. Not available for
+           direct purchase as a seat selection — must be accessed through
+           Apex Class fare or upgrade (see Section E.3).
+       (d) Amenities include premium bedding, noise-canceling headphones,
+           Stratosphere Lounge access at departure and arrival airports,
+           and multi-course dining (see Section A for Apex Class inclusions).
+
+
+E.2  SEAT SELECTION RULES BY FARE CLASS
+--------------------------------------------------------------------------------
+
+E.2.1  Essentials Fare
+       (a) Seat assignment is made automatically at check-in (24 hours before
+           departure). No advance seat selection is included.
+       (b) Passengers may purchase a specific seat at any time after booking:
+           Standard Seat: $9-$15 depending on route. Preferred Seat: $15-$45.
+           SkyStretch Seat: $45-$89.
+       (c) Passengers who do not purchase a seat are assigned a Standard Seat
+           at check-in. Epsilon Airlines does not guarantee specific seat
+           location, row, or proximity to travel companions for Essentials
+           Fare automatic assignments.
+
+       EXAMPLE: Naomi books an Essentials Fare for $129. She wants a window
+       seat and pays $12 at booking for a Standard window in row 22. Her
+       colleague Raj, also on Essentials, does not pay and is assigned seat
+       32B (middle) at check-in.
+
+E.2.2  Horizon Fare
+       (a) Free Standard Seat selection at the time of booking.
+       (b) Passengers may upgrade to Preferred Seats or SkyStretch Seats by
+           paying the applicable surcharge (see Sections E.1.2, E.1.3).
+
+E.2.3  Summit Fare
+       (a) Free SkyStretch Seat selection at the time of booking.
+       (b) Free Preferred Seat selection also available if the passenger
+           prefers a rear-cabin aisle or window seat over a SkyStretch Seat.
+       (c) Standard Seats are also available at no charge.
+
+E.2.4  Apex Class
+       (a) CloudDeck Suite seat is assigned automatically upon booking.
+       (b) Passengers may select their specific CloudDeck Suite seat (e.g.,
+           window-side pod vs. center pair) at booking or any time thereafter
+           via "Manage Booking" at epsilon-air.com.
+       (c) On routes operated by narrow-body aircraft without CloudDeck Suite
+           configuration, Apex Class passengers are seated in row 1
+           SkyStretch Seats with enhanced service.
+
+
+E.3  UPGRADE METHODS
+--------------------------------------------------------------------------------
+
+E.3.1  Cash Upgrades
+       (a) Horizon Fare to Summit Fare (SkyStretch cabin):
+           $89-$159 per segment, depending on route and availability.
+           Routes under 1,500 miles: $89. Routes 1,500-3,000 miles: $119.
+           Routes over 3,000 miles: $159.
+       (b) Any fare to Apex Class (CloudDeck Suite):
+           $299-$899 per segment, depending on route and availability.
+           Domestic routes: $299-$499. International routes: $499-$899.
+       (c) Cash upgrades may be purchased at booking, via "Manage Booking,"
+           at airport check-in kiosks, or at the departure gate (subject to
+           availability). Gate upgrades may be priced $25-$75 higher than
+           advance purchase.
+
+       EXAMPLE: Diego holds a Horizon Fare on a 1,200-mile domestic route.
+       He purchases a cash upgrade to Summit for $89 at booking. Three days
+       later, he checks availability for a further upgrade to Apex Class and
+       pays $349 (domestic rate). His total upgrade cost: $438.
+
+E.3.2  SkyCredits Upgrades
+       (a) Horizon Fare to Summit Fare: 8,000-15,000 SkyCredits per segment.
+           Routes under 1,500 miles: 8,000 SC. Routes 1,500-3,000 miles:
+           12,000 SC. Routes over 3,000 miles: 15,000 SC.
+       (b) Any eligible fare to Apex Class: 25,000-50,000 SkyCredits per
+           segment. Domestic: 25,000 SC. International short-haul (under
+           3,000 miles): 35,000 SC. International long-haul: 50,000 SC.
+       (c) SkyCredits upgrade requests may be submitted up to 120 hours
+           before departure. Requests are confirmed based on availability
+           and the priority order in Section E.4.
+
+       EXAMPLE: Fatima has 40,000 SkyCredits in her Voyager Rewards account.
+       She requests an upgrade from Horizon to Apex on an international
+       short-haul flight (35,000 SC). Her request is placed on the upgrade
+       waitlist and confirmed 48 hours before departure when a CloudDeck
+       Suite seat becomes available.
+
+E.3.3  UpLift Token Upgrades
+       (a) 1 UpLift Token: Horizon Fare to Summit Fare (one segment).
+       (b) 2 UpLift Tokens: Summit Fare to Apex Class (one segment), or
+           Horizon Fare to Apex Class (one segment).
+       (c) UpLift Tokens are earned through Voyager Rewards tier status
+           (see Section C.6): Navigator receives 2 tokens/year, Captain
+           receives 4 tokens/year, Admiral receives 8 tokens/year.
+       (d) Token upgrade requests may be submitted from 120 hours to 24
+           hours before departure. Requests are waitlisted and cleared per
+           the priority order in Section E.4.
+
+E.3.4  Complimentary Upgrades (Tier-Based)
+       (a) Captain-tier members: confirmed complimentary upgrade from Horizon
+           or Summit Fare to the next cabin class, 24 hours before departure,
+           based on availability.
+       (b) Admiral-tier members: confirmed complimentary upgrade from Horizon
+           or Summit Fare to the next cabin class, 72 hours before departure,
+           based on availability.
+       (c) Complimentary upgrades are subject to the restrictions in
+           Section E.5.
+
+
+E.4  UPGRADE PRIORITY & WAITLIST
+--------------------------------------------------------------------------------
+
+E.4.1  When multiple passengers request upgrades on the same flight, Epsilon
+       Airlines clears requests in the following priority order:
+
+       Priority 1: Admiral-tier member requesting Apex Class.
+       Priority 2: Captain-tier member requesting Apex Class.
+       Priority 3: Admiral-tier member requesting Summit Fare.
+       Priority 4: Captain-tier member requesting Summit Fare.
+       Priority 5: UpLift Token upgrade requests (any tier).
+       Priority 6: SkyCredits upgrade requests (any tier).
+       Priority 7: Cash upgrade requests (any tier).
+
+E.4.2  Tiebreaking Rules
+       When two or more passengers share the same priority level, ties are
+       broken in the following order:
+       (a) Higher Voyager Rewards tier status (e.g., Admiral over Captain
+           within the same priority level).
+       (b) Earlier Voyager Rewards enrollment date (longer-tenured member
+           takes precedence).
+       (c) Earlier check-in time.
+
+E.4.3  Waitlist Clearance
+       (a) The upgrade waitlist is processed automatically and continuously
+           from the time of request until 30 minutes before scheduled
+           departure.
+       (b) Final waitlist clearance occurs at the departure gate 30 minutes
+           prior to boarding. Any uncleared requests are canceled, and
+           SkyCredits or UpLift Tokens are returned to the passenger's
+           Voyager Rewards account within 24 hours.
+
+       EXAMPLE: On Flight EA-207, three passengers request Apex upgrades.
+       Passenger A is an Admiral member (enrolled 2019) using an UpLift
+       Token. Passenger B is a Captain member requesting a complimentary
+       upgrade. Passenger C is an Admiral member (enrolled 2022) using
+       SkyCredits. Priority order: Passenger B clears first (Priority 2:
+       Captain requesting Apex via complimentary), then Passenger A
+       (Priority 5: UpLift Token, but Admiral tier), then Passenger C
+       (Priority 6: SkyCredits, Admiral tier). Only 2 CloudDeck Suites
+       are available, so Passenger C remains on the waitlist until the gate.
+
+
+E.5  COMPLIMENTARY UPGRADE RULES & RESTRICTIONS
+--------------------------------------------------------------------------------
+
+E.5.1  Eligible Fare Classes
+       Complimentary tier-based upgrades (Section E.3.4) apply only to
+       passengers booked on published Horizon Fare or Summit Fare tickets.
+       Essentials Fare tickets are not eligible for complimentary upgrades.
+
+E.5.2  Route Restrictions
+       (a) Complimentary upgrades are available on domestic routes and
+           short-haul international routes under 2,500 miles only.
+       (b) Long-haul international routes (2,500 miles and above) require
+           UpLift Tokens, SkyCredits, or cash to upgrade.
+
+E.5.3  Codeshare Restrictions
+       Complimentary upgrades are not available on flights operated by a
+       different airline under an Epsilon Airlines codeshare agreement. The
+       flight must be operated by Epsilon Airlines (flight numbers EA-xxx)
+       to be eligible.
+
+E.5.4  Voyager Rewards Requirement
+       The passenger must have a valid Voyager Rewards membership number
+       associated with the booking at the time of the upgrade request. Adding
+       a Voyager Rewards number after the upgrade window has closed does not
+       retroactively qualify the passenger.
+
+       EXAMPLE: Hiroshi is an Admiral-tier member flying a Horizon Fare on a
+       1,800-mile domestic route (EA-553). He is eligible for a complimentary
+       upgrade to Summit, confirmed 72 hours before departure. His colleague
+       Yuki, also Admiral tier, is on the same route but booked an Essentials
+       Fare — she is not eligible for the complimentary upgrade. Yuki may
+       still upgrade using UpLift Tokens, SkyCredits, or cash per the
+       methods in Section E.3.
+
+
+E.6  FAMILY SEATING POLICY
+--------------------------------------------------------------------------------
+
+E.6.1  Epsilon Airlines will make reasonable efforts to seat children under
+       the age of 14 adjacent to an accompanying adult at no extra charge.
+       This policy applies to all fare classes but is guaranteed only on
+       Horizon Fare, Summit Fare, and Apex Class bookings.
+
+E.6.2  Procedure
+       (a) At booking: when selecting seats on Horizon+ fares, adjacent seats
+           are held together when a child under 14 is included in the
+           reservation.
+       (b) At check-in: if adjacent seating was not secured at booking (e.g.,
+           Essentials Fare), the system will attempt automatic reassignment
+           to place the child next to the accompanying adult.
+       (c) If adjacent seating cannot be assigned by the system, passengers
+           should call 1-800-EPSILON for manual assistance. Agents will
+           attempt seat swaps and, if necessary, may upgrade the child to
+           a Preferred Seat at no charge to achieve adjacency.
+
+E.6.3  Limitations
+       (a) On Essentials Fare, Epsilon Airlines will make best efforts but
+           cannot guarantee adjacent seating, as seat assignments are made
+           at check-in and depend on availability.
+       (b) The policy applies to children under 14 traveling with a parent,
+           legal guardian, or designated adult on the same booking. It does
+           not apply to unaccompanied minors (see Section G for
+           unaccompanied minor policies).
+       (c) This policy covers standard adjacent seating (side-by-side). It
+           does not guarantee specific seat types (window, aisle) or cabin
+           class for the accompanying adult.
+
+       EXAMPLE: Leila books Essentials Fare for herself and her 10-year-old
+       son, Omar. At check-in, they are assigned seats 28A and 31C — not
+       adjacent. Leila calls 1-800-EPSILON, and an agent reassigns them to
+       27E and 27F at no charge. Had Leila booked Horizon Fare, she could
+       have selected adjacent seats 18A and 18B at booking, with a guarantee
+       of adjacency.
+
+
+================================================================================
+CROSS-REFERENCES
+  - Section A: Fare Class Definitions & Booking Rules
+  - Section C: Voyager Rewards Program, Tier Benefits & UpLift Tokens (C.6)
+  - Section D: Booking Changes, Cancellations & Refunds
+  - Section G: Unaccompanied Minor & Special Assistance Policies
+================================================================================
+END OF SECTION E
+================================================================================
+================================================================================
+EPSILON AIRLINES — PASSENGER RULES & POLICIES MANUAL
+Section F: Flight Delays, Cancellations & Irregular Operations
+Effective Date: March 1, 2026 | Revision 4.2
+================================================================================
+
+F.1  DELAY COMPENSATION
+
+F.1.1  General Policy
+Epsilon Airlines provides tiered compensation to passengers affected by
+flight delays attributable to airline-controlled causes, including mechanical
+issues, crew scheduling, and operational decisions. Compensation is measured
+from the originally scheduled departure time as printed on the passenger's
+boarding pass or displayed in the Epsilon Airlines booking confirmation.
+Weather-related delays, air traffic control (ATC) directives, and security
+events are excluded from compensation under F.1, though meal vouchers may
+still be issued at station manager discretion.
+
+F.1.2  Delay Tiers and Benefits
+
+  (a) Delay of 1 hour to 1 hour 59 minutes:
+      - $12 meal voucher, redeemable at any airport food vendor within the
+        departure terminal.
+      - Example: Passenger Nora Whitfield is booked on Flight EP-412 from
+        Cascadia (CSC) to Meridian Bay (MRB), scheduled to depart at 14:00.
+        The flight is delayed until 15:15 due to a maintenance check. Nora
+        receives a $12 meal voucher via push notification on the Epsilon app.
+
+  (b) Delay of 2 hours to 3 hours 59 minutes:
+      - $25 meal voucher.
+      - Stratosphere Lounge access granted to Captain-tier and Admiral-tier
+        Voyager Rewards members (subject to lounge capacity; see Section E.9
+        for standard lounge access rules).
+      - Example: Admiral-tier member Carlos Reyes experiences a 3-hour delay
+        on Flight EP-788 at Solstice City (SLC). Carlos receives a $25 meal
+        voucher and is admitted to the Stratosphere Lounge for the duration
+        of the delay.
+
+  (c) Delay of 4 hours to 5 hours 59 minutes:
+      - $50 meal voucher.
+      - 1,000 SkyCredits deposited to the passenger's Voyager Rewards account
+        within 72 hours.
+      - Complimentary Wi-Fi access on the rebooked or delayed flight
+        (activation code provided via Epsilon app or at the gate).
+      - Example: Navigator-tier member Diane Okafor's Flight EP-230 from
+        Meridian Bay to Cascadia is delayed 4 hours and 40 minutes. Diane
+        receives the $50 voucher, 1,000 SkyCredits, and a Wi-Fi access code
+        for the eventual departure.
+
+  (d) Delay of 6 hours or more:
+      - $100 Epsilon travel credit (applied to Voyager Rewards wallet,
+        valid for 12 months from date of issue).
+      - 2,500 SkyCredits deposited within 72 hours.
+      - Hotel accommodation if overnight stay is required (see F.3 for
+        hotel voucher amounts).
+      - Ground transportation to and from hotel.
+      - Example: Passenger Leo Tran is delayed 8 hours on an evening flight
+        EP-519 from Cascadia, pushing departure to 03:00 the following day.
+        Leo receives the $100 travel credit, 2,500 SkyCredits, a hotel
+        voucher, and shuttle transport.
+
+F.1.3  Non-Voyager Rewards Members
+Passengers who are not enrolled in Voyager Rewards receive all monetary
+compensation (vouchers, travel credits) but SkyCredits are held in escrow
+for 90 days. If the passenger enrolls within that window, credits are
+deposited retroactively. After 90 days, unclaimed SkyCredits expire.
+
+--------------------------------------------------------------------------------
+
+F.2  FLIGHT CANCELLATION
+
+F.2.1  Passenger Options Upon Cancellation
+When Epsilon Airlines cancels a flight for any reason, the affected passenger
+is entitled to one of the following:
+
+  (a) Full refund to the original form of payment, processed within 7
+      business days (credit card) or 20 business days (cash/check). Refund
+      includes all ancillary fees paid (seat selection, baggage, etc.).
+
+  (b) Rebooking on the next available Epsilon Airlines flight at no
+      additional cost. Fare differences are waived.
+
+F.2.2  Partner Airline Rebooking
+If the next available Epsilon Airlines flight to the passenger's destination
+is 6 or more hours from the originally scheduled departure:
+  - Epsilon will authorize rebooking on a partner airline at no additional
+    cost to the passenger.
+  - Partner airline options are presented in order of earliest arrival time.
+  - Example: Passenger Mila Andersen's Flight EP-304 from Meridian Bay (MRB)
+    to Solstice City (SLC) is cancelled at 09:00. The next Epsilon flight
+    departs at 17:30. Epsilon rebooks Mila on partner carrier Orion Air's
+    11:15 departure at no charge.
+
+F.2.3  Fare Class Protection on Rebooking
+  - Apex Class passengers: automatically rebooked in Apex Class on the
+    replacement flight. If Apex is unavailable, passenger is rebooked in
+    Summit Fare and receives downgrade compensation per F.7.
+  - Summit, Horizon, and Essentials Fare passengers: rebooked in the same
+    fare class. If the same fare class is sold out, passengers are upgraded
+    to the next available higher fare class at no charge.
+  - Example: Captain-tier member James Okorie, holding an Essentials Fare
+    ticket, is rebooked after cancellation. Essentials is sold out on the
+    replacement flight; James is upgraded to Horizon Fare at no additional
+    cost.
+
+F.2.4  Cancellation Notification
+Epsilon Airlines will notify passengers of cancellations via: (i) push
+notification through the Epsilon app, (ii) SMS to the phone number on file,
+and (iii) email to the address on file. Notification is issued as soon as
+the cancellation decision is made. If cancellation is known 24+ hours in
+advance, the passenger is contacted with rebooking options proactively.
+
+--------------------------------------------------------------------------------
+
+F.3  HOTEL & MEAL VOUCHERS
+
+F.3.1  Hotel Vouchers for Overnight Delays or Cancellations
+When a delay or cancellation requires an overnight stay (defined as a
+departure delay past 23:59 local time or a cancellation with no same-day
+alternative):
+
+  (a) Standard entitlement (Explorer, Navigator, and non-members):
+      Hotel voucher up to $175 per night at an Epsilon-contracted hotel.
+
+  (b) Enhanced entitlement (Captain and Admiral tier):
+      Hotel voucher up to $250 per night.
+
+  (c) Ground transportation (shuttle or rideshare) to and from the hotel
+      is included for all passengers and arranged by the Epsilon station
+      manager.
+
+  (d) If Epsilon-contracted hotels are fully booked, passengers may book
+      independently and submit receipts for reimbursement up to the
+      applicable voucher limit via epsilonairlines.com/claims within 30
+      days.
+
+F.3.2  Meal Vouchers
+Meal vouchers are issued based on the meal period affected:
+  - Breakfast (05:00–10:59 local): $15
+  - Lunch (11:00–16:59 local): $20
+  - Dinner (17:00–04:59 local): $25
+
+Multiple meal vouchers may be issued if the delay spans more than one meal
+period. Vouchers are redeemable at any food vendor within the departure
+terminal and are issued at the gate by Epsilon staff or via push notification
+on the Epsilon app.
+
+  Example: Passenger Kenji Watanabe is stranded overnight at Cascadia (CSC)
+  after his 19:00 flight is cancelled. Kenji receives a $25 dinner voucher,
+  a $175 hotel voucher, shuttle transport, and a $15 breakfast voucher for
+  the following morning.
+
+--------------------------------------------------------------------------------
+
+F.4  CONNECTING FLIGHT PROTECTION
+
+F.4.1  Missed Connections Due to Epsilon Delay
+If a delay on an Epsilon-operated flight causes a passenger to miss a
+connecting flight on the same Epsilon booking (single PNR):
+  - Automatic rebooking on the next available Epsilon connection at no
+    additional fare.
+  - If the missed connection results in an overnight stay, hotel and meal
+    compensation per F.3 applies.
+  - Checked baggage is automatically rerouted to the new itinerary.
+
+F.4.2  Cross-Reference: Section C (Booking Modifications)
+If a passenger voluntarily changes their itinerary after a missed connection
+(e.g., choosing a different destination), standard modification rules under
+Section C apply, including any applicable fare differences.
+
+F.4.3  Customer-Caused Missed Connections
+If the passenger misses a connection due to their own actions (e.g., late
+arrival to the departure gate, extended time in duty-free shopping, failure
+to comply with boarding announcements):
+  - Standard rebooking fees apply per Section D.2.
+  - No hotel, meal, or SkyCredits compensation is provided.
+  - Example: Passenger Ava Lindqvist arrives at Gate B12 in Meridian Bay
+    (MRB) 3 minutes after the boarding door closes for her connecting
+    flight, despite a valid 90-minute connection window. Ava is rebooked
+    under Section D.2 at the applicable rebooking fee.
+
+F.4.4  Minimum Connection Times
+Epsilon Airlines enforces the following minimum connection times for
+protected connections: Domestic-to-Domestic: 45 minutes. Domestic-to-
+International: 90 minutes. International-to-Domestic: 90 minutes.
+International-to-International: 120 minutes. Connections booked below
+these minimums are not eligible for F.4 protection.
+
+--------------------------------------------------------------------------------
+
+F.5  TARMAC DELAY RIGHTS
+
+F.5.1  Deplaning
+Epsilon Airlines will offer passengers the opportunity to deplane:
+  - After 3 hours for domestic flights.
+  - After 4 hours for international flights.
+Passengers may not be denied deplaning after these time limits except
+when the pilot-in-command determines that deplaning would pose a safety
+or security risk, or when ATC advises that deplaning would significantly
+disrupt airport operations.
+
+F.5.2  Onboard Services During Tarmac Delay
+  - Water and snack service begins no later than 2 hours after the aircraft
+    door closes (or 2 hours after landing, if the delay occurs upon arrival).
+  - Lavatory access must be maintained at all times during a tarmac delay.
+  - Adequate climate control (heating or air conditioning) must be
+    maintained.
+
+F.5.3  Communication
+  - Gate agents or the flight crew will provide updates to passengers every
+    30 minutes regarding the status of the delay, the reason for the delay,
+    and any anticipated departure or deplaning time.
+  - Example: Flight EP-655 pushes back from Gate C9 at Solstice City (SLC)
+    at 16:00 but is held on the taxiway. At 18:00, water and pretzels are
+    distributed. At 19:00 (3-hour mark), the captain announces that
+    passengers may deplane via a mobile stairway if they choose.
+
+--------------------------------------------------------------------------------
+
+F.6  DENIED BOARDING (OVERSOLD FLIGHTS)
+
+F.6.1  Voluntary Denied Boarding
+Before involuntarily denying boarding, Epsilon Airlines will solicit
+volunteers willing to give up their confirmed seat. Volunteers are offered:
+  - Epsilon travel credit starting at $200, negotiable up to a maximum of
+    $800 per volunteer, at station manager discretion.
+  - Confirmed rebooking on the next available Epsilon flight.
+  - Meal voucher per F.3.2.
+  - Example: Flight EP-101 from Cascadia to Meridian Bay is oversold by 3
+    seats. Gate agent Priya Nair solicits volunteers, offering $350 travel
+    credit + confirmed seat on the 16:30 departure + a $20 lunch voucher.
+    Three volunteers accept.
+
+F.6.2  Involuntary Denied Boarding Compensation
+If insufficient volunteers are obtained, passengers may be involuntarily
+denied boarding. Compensation is determined by the length of delay to the
+passenger's final destination:
+
+  (a) Arrival within 1 hour of original scheduled arrival:
+      No monetary compensation required (rebooking provided).
+
+  (b) Arrival 1 to 2 hours after original scheduled arrival (domestic)
+      or 1 to 4 hours (international):
+      200% of the one-way fare, minimum $400, maximum $800.
+
+  (c) Arrival 2 to 4 hours after original (domestic) or 4+ hours
+      (international):
+      400% of the one-way fare, minimum $800, maximum $1,600.
+
+  (d) Arrival 4+ hours after original (domestic), or no alternative
+      flight offered:
+      400% of the one-way fare, minimum $800, maximum $1,600, plus
+      5,000 SkyCredits deposited to the passenger's Voyager Rewards
+      account.
+
+Compensation is paid by check or Epsilon travel credit at the passenger's
+choice, issued at the airport on the day of travel.
+
+F.6.3  Bumping Priority (Last to Be Involuntarily Denied)
+Passengers are protected from involuntary bumping in the following priority
+order (last to be bumped first):
+  1. Admiral-tier Voyager Rewards members
+  2. Captain-tier Voyager Rewards members
+  3. Navigator-tier Voyager Rewards members
+  4. Explorer-tier Voyager Rewards members
+  5. Non-member passengers
+
+Within the same tier, the passenger who paid the highest fare is bumped
+last. If fare and tier are identical, the passenger who checked in earliest
+is bumped last.
+
+  Example: Flight EP-412 is oversold by 1 seat after volunteers are
+  exhausted. Remaining candidates are two Explorer-tier members: Tomás
+  Herrera (fare paid: $340, checked in at 06:12) and Simone Bellard (fare
+  paid: $280, checked in at 07:45). Simone, having paid the lower fare
+  and checked in later, is involuntarily denied boarding and receives
+  compensation per F.6.2.
+
+--------------------------------------------------------------------------------
+
+F.7  DOWNGRADE COMPENSATION
+
+F.7.1  Involuntary Downgrades
+If Epsilon Airlines involuntarily downgrades a passenger to a lower fare
+class (e.g., due to aircraft substitution or operational rebooking), the
+following compensation applies in addition to a refund of the fare
+difference:
+
+  (a) Apex Class to Summit Fare:
+      $200 travel credit + 3,000 SkyCredits.
+
+  (b) Summit Fare to Horizon Fare:
+      $100 travel credit + 1,500 SkyCredits.
+
+  (c) Horizon Fare to Essentials Fare:
+      $75 travel credit + 1,000 SkyCredits.
+
+F.7.2  Fare Difference Refund
+The fare difference is calculated as the difference between the fare paid
+and the published fare for the class in which the passenger actually
+traveled, based on the fare at the time of original booking. Refund is
+processed within 7 business days to the original form of payment.
+
+F.7.3  Named Example
+Admiral-tier member Renata Voss holds an Apex Class ticket on Flight EP-900
+from Solstice City (SLC) to Cascadia (CSC), valued at $2,400. Due to an
+aircraft swap to a smaller plane with no CloudDeck Suite cabin, Renata is
+downgraded to Summit Fare. She receives: (i) refund of the fare difference
+($2,400 minus the $1,600 Summit fare = $800), (ii) a $200 travel credit,
+and (iii) 3,000 SkyCredits.
+
+--------------------------------------------------------------------------------
+
+F.8  CREW-CAUSED DELAYS
+
+F.8.1  Applicability
+Delays caused by crew availability — including crew rest requirements,
+crew illness, or crew transportation delays — are treated identically
+to mechanical delays for the purposes of passenger compensation. All
+provisions of F.1 through F.3 apply without modification.
+
+F.8.2  Crew Rest Requirements
+Federal crew rest regulations are non-negotiable and cannot be waived by
+Epsilon Airlines, station managers, or passengers. Epsilon will not reduce
+legally required crew rest periods to minimize delays.
+
+F.8.3  Communication
+When a delay is crew-related, gate agents will advise passengers of the
+estimated new departure time and the reason for the delay (identified as
+"crew scheduling" in passenger communications). Compensation tier per F.1.2
+is determined by the total delay from the originally scheduled departure.
+
+  Example: Flight EP-730 from Meridian Bay (MRB) is delayed 3 hours and
+  20 minutes because the inbound crew exceeded their duty-time limit and
+  required mandatory rest. Passengers receive compensation per F.1.2(b):
+  $25 meal voucher. Captain-tier and Admiral-tier Voyager Rewards members
+  receive Stratosphere Lounge access for the duration of the delay.
+
+================================================================================
+Cross-References:
+  - Section C: Booking Modifications & Voluntary Changes
+  - Section D: Rebooking Fees, No-Shows & Cancellation by Passenger
+  - Section E: Seating, Upgrades & Cabin Configuration
+END OF SECTION F
+================================================================================
+================================================================================
+EPSILON AIRLINES — PASSENGER RULES & POLICIES MANUAL
+Section G: Special Services & Assistance
+Effective Date: March 1, 2026 | Revision 4.2
+================================================================================
+
+G.1  UNACCOMPANIED MINORS (UM)
+
+G.1.1  Age Requirements and Service Tiers
+
+  (a) Ages 5–7: Unaccompanied Minor service is mandatory. Travel is
+      restricted to direct (non-stop) flights only. Fee: $150 each way.
+      UM service is not available for children under age 5; a ticketed
+      passenger age 16 or older must accompany them.
+
+  (b) Ages 8–11: Unaccompanied Minor service is mandatory. Travel
+      permitted on direct flights or single-connection itineraries
+      (maximum one stop with aircraft change). Fee: $150 each way.
+
+  (c) Ages 12–14: Unaccompanied Minor service is optional but
+      recommended. If elected, fee is $100 each way. If UM service is
+      not purchased, the minor travels under standard adult policies.
+
+  (d) Ages 15–17: No Unaccompanied Minor service is required. The
+      passenger may book and travel under all standard adult policies.
+      UM service is not available for purchase for this age group.
+
+G.1.2  Flight Restrictions for Unaccompanied Minors
+  - UM passengers ages 5–7 are not accepted on international flights.
+  - UM passengers of any age are not accepted on the last flight of the
+    day to their destination (to ensure rebooking options in case of
+    irregularity; see Section F.2).
+  - UM passengers are not accepted on red-eye flights (flights departing
+    between 22:00 and 05:59 local time).
+
+G.1.3  Escort and Handoff Procedures
+  - A designated Epsilon Airlines staff member escorts the UM from the
+    check-in counter through security (where permitted by airport policy),
+    to the departure gate, and onto the aircraft.
+  - Upon arrival, the UM is escorted from the aircraft to the arrivals
+    area and released only to the designated pickup person.
+  - The pickup person must present valid government-issued photo
+    identification and must be listed by name on the UM authorization
+    form completed at booking.
+  - If the designated pickup person does not appear within 60 minutes of
+    arrival, Epsilon will contact the emergency contacts listed on the UM
+    form. If no contact is reached within an additional 60 minutes, local
+    authorities may be notified.
+
+G.1.4  Capacity Limit
+A maximum of 8 unaccompanied minors are accepted per flight. Bookings are
+processed on a first-come, first-served basis.
+
+  Example: Parent David Osei books UM service for his 6-year-old daughter
+  Amara on Flight EP-215, a direct service from Cascadia (CSC) to Meridian
+  Bay (MRB). David pays $150 for the one-way UM fee, completes the
+  authorization form naming grandmother Beatrice Osei as the pickup person,
+  and escorts Amara to the Epsilon check-in counter. An Epsilon staff member
+  accompanies Amara through to the aircraft. Upon arrival at MRB, Beatrice
+  presents her driver's license at the arrivals desk and is reunited with
+  Amara.
+
+--------------------------------------------------------------------------------
+
+G.2  PASSENGERS WITH DISABILITIES
+
+G.2.1  Wheelchair and Mobility Assistance
+Wheelchair assistance is provided free of charge on all Epsilon Airlines
+flights. Passengers are encouraged to request wheelchair service at least
+48 hours in advance via the Epsilon app, by calling Epsilon Reservations
+(1-800-EPSILON), or through the Manage Booking portal online. If not
+pre-requested, wheelchair assistance will be accommodated at the gate on a
+best-effort basis; however, advance notice ensures availability at every
+transfer point.
+
+G.2.2  Service Animals
+Service animals (dogs trained to perform a specific task for a person with
+a disability) are permitted in the cabin at no charge, subject to the
+following requirements:
+  - The passenger must submit a completed U.S. DOT Service Animal
+    Transportation Form.
+  - A veterinary health certificate dated within 1 year of the travel date
+    must be presented at check-in.
+  - The service animal must be harnessed, leashed, or tethered at all times
+    and must fit within the passenger's foot space or on the passenger's lap
+    (for small animals).
+  - Service animals are not subject to cabin pet limits (see G.5).
+
+  Example: Navigator-tier member Hannah Moss travels with her service dog,
+  a Labrador Retriever named Birch, on Flight EP-440 from Solstice City
+  (SLC) to Cascadia (CSC). Hannah submits her DOT form and vet certificate
+  at check-in. Birch rides in the cabin at Hannah's feet at no charge.
+
+G.2.3  Emotional Support Animals
+Emotional support animals are not recognized as service animals by Epsilon
+Airlines. Passengers wishing to travel with an emotional support animal must
+comply with the standard pet policy outlined in G.5, including all applicable
+fees, carrier requirements, and cabin limits.
+
+G.2.4  Accessible Seating
+  - Bulkhead seats with movable armrests are reserved for passengers with
+    disabilities who require additional space or who need to transfer from
+    an aisle wheelchair.
+  - These seats may not be assigned to other passengers until 24 hours
+    before departure unless all passengers with disabilities on the flight
+    have been accommodated.
+  - An onboard aisle wheelchair is available on all Epsilon aircraft
+    configured with 60 or more passenger seats, enabling passengers to
+    move between their seat and the lavatory.
+  - See Section E (Seating, Upgrades & Cabin Configuration) for additional
+    seat assignment policies.
+
+--------------------------------------------------------------------------------
+
+G.3  MEDICAL CLEARANCE
+
+G.3.1  When Medical Clearance Is Required
+Epsilon Airlines requires medical clearance from the Epsilon Medical Desk
+in the following circumstances:
+
+  (a) Supplemental oxygen is needed during the flight.
+      Epsilon provides approved portable oxygen concentrators at a fee of
+      $175 per flight segment. Passengers may also bring their own FAA-
+      approved portable oxygen concentrator at no charge; a list of approved
+      devices is available at epsilonairlines.com/medical.
+
+  (b) Stretcher accommodation is required.
+      Stretcher service costs $3,500 per flight segment. The passenger (or
+      their medical representative) must also purchase all adjacent seats
+      needed to install the stretcher (typically 6–9 seats, depending on
+      aircraft type).
+
+  (c) The passenger has had a communicable disease within 14 days of
+      departure.
+
+  (d) The passenger has undergone surgery within 10 days of departure.
+
+G.3.2  Submission Requirements
+  - The Epsilon Medical Clearance Form (Form EPMC-1) must be completed by
+    a licensed physician and submitted to medical@epsilonairlines.com no
+    later than 72 hours before the scheduled departure.
+  - A signed physician's letter on medical letterhead must accompany the
+    form, describing the passenger's condition and confirming fitness to fly.
+  - The Epsilon Medical Desk will respond within 24 hours of submission with
+    approval, denial, or a request for additional information.
+
+G.3.3  Named Example
+Passenger Raymond Cho is recovering from knee surgery performed 8 days
+before his planned Flight EP-188 from Meridian Bay (MRB) to Solstice City
+(SLC). Because the surgery was within 10 days of departure, Raymond's
+orthopedic surgeon completes Form EPMC-1 and provides a letter confirming
+Raymond is cleared for a 3-hour flight with normal cabin pressure. Raymond
+emails both documents to medical@epsilonairlines.com 4 days before
+departure. The Medical Desk approves his travel within 18 hours. Raymond
+is advised to request an aisle seat (see Section E) and to walk the cabin
+periodically.
+
+--------------------------------------------------------------------------------
+
+G.4  PREGNANT TRAVELERS
+
+G.4.1  Travel Without Restrictions
+  - Single pregnancy: Travel is permitted without restriction or
+    documentation up to and including 36 weeks of gestation.
+  - Multiple pregnancy (twins, triplets, etc.): Travel is permitted
+    without restriction or documentation up to and including 32 weeks
+    of gestation.
+
+G.4.2  Travel Requiring Medical Clearance
+  - Single pregnancy beyond 36 weeks (up to 38 weeks): A medical
+    clearance letter from the passenger's physician or midwife is
+    required. The letter must be dated within 72 hours of the scheduled
+    departure and must state the expected due date and confirm fitness
+    to fly.
+  - Multiple pregnancy beyond 32 weeks (up to 38 weeks): Same medical
+    clearance letter requirements as above.
+
+G.4.3  Travel Not Permitted
+  - No travel is permitted on Epsilon Airlines after 38 weeks of
+    gestation, regardless of pregnancy type or medical clearance.
+
+G.4.4  Recommendations for Long-Haul Flights
+For flights of 5 hours or longer, Epsilon Airlines recommends that
+pregnant passengers:
+  - Wear graduated compression stockings to reduce the risk of deep vein
+    thrombosis (DVT).
+  - Request an aisle seat (see Section E for seat selection policies) to
+    allow ease of movement.
+  - Stay hydrated and walk the cabin at regular intervals.
+
+  Example: Passenger Sofia Engström, 34 weeks pregnant with a single
+  pregnancy, books Flight EP-610 from Cascadia (CSC) to Solstice City
+  (SLC), a 4-hour domestic flight. No medical clearance is required.
+  Sofia selects an aisle seat through the Epsilon app. Two weeks later,
+  now at 37 weeks, Sofia wishes to fly home. She obtains a letter from
+  her obstetrician dated the day before departure confirming her fitness
+  to fly and her due date of April 12. She presents the letter at check-in
+  and is cleared to board.
+
+--------------------------------------------------------------------------------
+
+G.5  PET TRAVEL
+
+G.5.1  In-Cabin Pet Travel
+  - Eligible animals: Small dogs and cats only.
+  - Carrier dimensions: Maximum 17 inches long x 11 inches wide x 7.5
+    inches high (must fit under the seat in front of the passenger).
+  - Combined weight: Pet plus carrier must not exceed 20 lbs.
+  - Fee: $125 one-way per pet.
+  - Cabin limit: Maximum 2 pets permitted in the passenger cabin per
+    flight, allocated on a first-come, first-served basis at time of
+    booking.
+  - Cabin restriction: In-cabin pets are not permitted in the Apex Class
+    cabin. Passengers traveling in Apex Class who wish to bring a pet
+    must arrange cargo transport (see G.5.2) or have the pet travel in
+    the main cabin under the care of a companion traveling in Horizon or
+    Essentials Fare.
+  - Flight duration restriction: In-cabin pets are not permitted on
+    flights exceeding 8 hours in scheduled duration.
+  - The pet must remain inside the carrier with the carrier zipped or
+    latched for the entire duration of the flight, including taxi,
+    takeoff, and landing.
+  - See Section B.6 for pet-related baggage fees and documentation
+    requirements at check-in.
+
+  Example: Explorer-tier member Paula Nkosi wishes to bring her 9-lb
+  cat, Mochi, in-cabin on Flight EP-320 from Meridian Bay (MRB) to
+  Cascadia (CSC), a 3-hour flight. Paula books the pet add-on for $125
+  and confirms Mochi's carrier measures 16x10x7 inches. Paula is
+  traveling in Horizon Fare, so in-cabin travel is permitted. At the
+  gate, the agent verifies the carrier fits under the seat and Mochi
+  remains inside throughout the flight.
+
+G.5.2  Cargo Pet Travel
+  - Eligible animals: Dogs and cats.
+  - Minimum age: 12 weeks old at the time of travel.
+  - Carrier: Must be IATA Live Animals Regulations (LAR) compliant —
+    rigid-walled, ventilated on at least three sides, with absorbent
+    liner and attached water dish.
+  - Fees: $250 one-way domestic; $400 one-way international.
+  - Temperature restrictions: Epsilon Airlines will not transport animals
+    in cargo if the actual or forecasted tarmac temperature at the origin,
+    destination, or any connection point is below 20 degrees Fahrenheit
+    (-7 degrees Celsius) or above 85 degrees Fahrenheit (29 degrees
+    Celsius) at the time of departure or arrival.
+  - Brachycephalic (snub-nosed) breed restriction: The following breeds
+    (and mixes thereof) are not accepted for cargo transport due to
+    elevated risk of respiratory distress: English Bulldog, French
+    Bulldog, Pug, Boston Terrier, Pekingese, Shih Tzu, Boxer (dogs);
+    Persian, Himalayan, Exotic Shorthair, Burmese (cats). This list is
+    not exhaustive; Epsilon reserves the right to decline cargo transport
+    for any brachycephalic breed.
+  - Cargo pet bookings must be made at least 48 hours before departure
+    by calling Epsilon Reservations (1-800-EPSILON). Online cargo pet
+    booking is not available.
+
+  Example: Passenger Jordan Kessler needs to transport his 3-year-old
+  Golden Retriever, Maple, from Solstice City (SLC) to Meridian Bay
+  (MRB). Jordan calls Epsilon Reservations 5 days in advance, pays the
+  $250 domestic cargo fee, and confirms his IATA-compliant crate
+  dimensions. On the day of travel, the forecasted tarmac temperature
+  at SLC is 72 degrees Fahrenheit and at MRB is 68 degrees Fahrenheit —
+  both within the acceptable range. Maple travels safely in the climate-
+  controlled cargo hold.
+
+G.5.3  Service Animals
+Service animals are governed by G.2.2 and are exempt from all pet fees,
+carrier requirements, and cabin limits. Service animals are not considered
+pets under this section.
+
+--------------------------------------------------------------------------------
+
+G.6  PREGNANT AND NURSING MOTHERS — BOARDING & SEATING PRIORITY
+
+G.6.1  Priority Boarding
+Pregnant passengers (at any stage of pregnancy) and passengers traveling
+with a nursing infant are entitled to priority boarding immediately after
+Zone 1 boarding, regardless of their assigned boarding zone or fare class.
+This benefit is extended automatically when the passenger identifies
+themselves to the gate agent; no advance registration or documentation
+is required.
+
+G.6.2  Complimentary Adjacent Seat Selection
+When an adjacent empty seat is available at the time of check-in (beginning
+24 hours before departure), Epsilon Airlines will assign it to a pregnant
+or nursing passenger at no charge, provided:
+  - The passenger has self-identified as pregnant or nursing through the
+    Epsilon app, at check-in, or by contacting Epsilon Reservations.
+  - The adjacent seat is not already assigned to another passenger.
+  - The adjacent seat is in the same fare class cabin as the passenger's
+    original booking.
+
+This benefit is subject to availability and is not guaranteed. It does not
+apply if the flight is fully booked at the time of check-in.
+
+  Example: Nursing mother Ingrid Holm, traveling on a Horizon Fare ticket
+  on Flight EP-505 from Cascadia (CSC) to Solstice City (SLC), checks in
+  via the Epsilon app 20 hours before departure and indicates she is
+  traveling with a nursing infant. The system identifies seat 14B (adjacent
+  to Ingrid's assigned 14A) as unoccupied and automatically blocks it for
+  Ingrid at no charge. At the gate, Ingrid boards after Zone 1.
+
+G.6.3  Cross-Reference
+For general seat selection policies, including SkyStretch Seats and
+CloudDeck Suite assignment rules, see Section E. For baggage policies
+related to infant travel (strollers, car seats, diaper bags), see
+Section B.
+
+================================================================================
+Cross-References:
+  - Section B: Baggage Allowances, Fees & Special Items
+  - Section E: Seating, Upgrades & Cabin Configuration
+  - Section F: Flight Delays, Cancellations & Irregular Operations
+END OF SECTION G
+================================================================================
+================================================================================
+SECTION H: STRATOSPHERE LOUNGE & ONBOARD SERVICES
+Epsilon Airlines — Passenger Service Manual
+================================================================================
+
+H.1  STRATOSPHERE LOUNGE ACCESS
+
+H.1.1  Eligible Passengers
+
+The Stratosphere Lounge is Epsilon Airlines' premium airport lounge
+network, available to the following passengers:
+
+  (a) Apex Class passengers holding a same-day boarding pass on a
+      departing Epsilon Airlines flight. Boarding pass must be presented
+      at the lounge reception desk or scanned via the Epsilon app.
+
+  (b) Voyager Rewards Captain tier members traveling on a same-day
+      Epsilon Airlines flight in any fare class. Voyager Rewards number
+      or digital membership card required at check-in.
+
+  (c) Voyager Rewards Admiral tier members at any time, regardless of
+      airline or travel date. Admiral members may access the Stratosphere
+      Lounge even when not traveling. Valid Voyager Rewards Admiral
+      identification required.
+
+  (d) Epsilon Voyager Premium Card holders presenting the physical or
+      digital card alongside a same-day departing boarding pass on any
+      airline. Access is limited to the cardholder only (see H.2 for
+      guest policy).
+
+H.1.2  Day Pass Purchase
+
+Passengers who do not qualify under H.1.1 may purchase a single-visit
+day pass:
+
+  - Price: $65 per person, per visit
+  - Purchase locations: Stratosphere Lounge front desk or via the
+    Epsilon Airlines mobile app (under "Lounge Access")
+  - Day pass grants access for the duration of the visit on the date of
+    purchase only; re-entry on the same day is not guaranteed
+  - Day passes are non-refundable and non-transferable
+
+H.1.3  Operating Hours
+
+Stratosphere Lounges are generally open from 5:00 AM to 11:00 PM local
+time. Hours vary by location and may be adjusted during holidays, low-
+traffic periods, or irregular operations. Current hours for each lounge
+are published at epsilonairlines.com/lounges and on the Epsilon app.
+
+    Example: Marcus, an Admiral tier member, visits the Stratosphere
+    Lounge at Cascadia (CSC) Terminal A on a Saturday when he is not
+    flying. He presents his Admiral digital card at reception and is
+    admitted without a boarding pass per rule H.1.1(c).
+
+--------------------------------------------------------------------------------
+
+H.2  GUEST POLICY
+
+H.2.1  Complimentary Guest Allowances
+
+Guest privileges vary by the primary entrant's access category:
+
+  Access Category                   Free Guests Permitted
+  -------------------------------------------------------
+  Admiral tier member               2 guests or immediate family
+  Captain tier member               1 guest
+  Apex Class passenger              1 guest
+  Epsilon Voyager Premium Card      0 guests (cardholder only)
+  Day pass holder                   0 guests (per-person basis)
+
+"Immediate family" for Admiral members is defined as spouse or domestic
+partner and dependent children under age 18 residing in the same
+household. Epsilon reserves the right to request documentation.
+
+H.2.2  Additional Guest Fees
+
+  - Additional guests beyond complimentary allowance: $45 per person
+  - Children under 2 years of age: free (no charge, does not count
+    toward guest limit)
+  - Children ages 2-12: $25 per child
+
+H.2.3  Guest Conduct
+
+The primary entrant is responsible for the conduct of all guests. Any
+violation of lounge policies by a guest may result in removal of the
+entire party and suspension of the primary entrant's lounge privileges
+for up to 12 months.
+
+    Example: Priya holds Captain tier status and brings her spouse as
+    her one complimentary guest, plus her 10-year-old daughter for $25
+    and her infant son at no charge. Her total additional cost is $25.
+
+--------------------------------------------------------------------------------
+
+H.3  LOUNGE AMENITIES
+
+H.3.1  Complimentary Amenities
+
+All Stratosphere Lounge visitors receive the following at no additional
+charge:
+
+  (a) Hot and cold buffet — rotating menu featuring seasonal dishes,
+      salads, soups, and desserts. Buffet hours align with meal periods;
+      a light snack selection is available at all other times.
+
+  (b) Premium spirits and craft cocktails — full bar service including
+      top-shelf liquors, regional craft beers, and a rotating cocktail
+      menu curated by Epsilon's beverage director.
+
+  (c) Shower suites — available in 30-minute reserved slots. Reserve at
+      the front desk upon arrival; towels, toiletries, and hair dryers
+      provided. Maximum one reservation per guest per visit.
+
+  (d) High-speed Wi-Fi — complimentary throughout the lounge. No login
+      or code required; connect to the "Stratosphere" network.
+
+  (e) Printing and scanning station — up to 15 pages per visit at no
+      charge; additional pages $0.25 each.
+
+  (f) Phone rooms — private, soundproofed booths for calls. Available on
+      a first-come, first-served basis; 20-minute courtesy limit during
+      peak hours.
+
+H.3.2  Premium Amenities (Additional Charge)
+
+  Service                           Price
+  -------------------------------------------------
+  Spa treatments (massage, facial)  $35 - $95
+  Private conference room rental    $50 per hour
+  A la carte dining menu            $12 - $30 per item
+
+Spa appointments may be booked at the front desk or in advance via the
+Epsilon app. Conference rooms include videoconferencing equipment, a
+whiteboard, and seating for up to 8 persons.
+
+H.3.3  Lounge Locations
+
+  Location                          Details
+  ---------------------------------------------------------
+  Cascadia (CSC)                    2 lounges — Terminal A, Terminal C
+  Meridian Bay (MRB)                1 lounge — Terminal 2
+  Solstice City (SLC)               1 lounge — International Terminal
+  Partner lounges worldwide         14 locations (see epsilonairlines
+                                    .com/partner-lounges for list)
+
+Partner lounge access follows the same eligibility rules in H.1.1,
+except that day pass purchases (H.1.2) are not available at partner
+locations. Partner lounge amenities may differ from Stratosphere
+standards and are subject to the partner's policies.
+
+--------------------------------------------------------------------------------
+
+H.4  ONBOARD WI-FI
+
+H.4.1  Wi-Fi Tiers and Pricing
+
+Epsilon Airlines offers three onboard Wi-Fi options:
+
+  Tier        Price               Includes
+  ---------------------------------------------------------------
+  Browse      $8.99/flight        Messaging apps and basic web
+                                  browsing (email, news, social)
+  Stream      $15.99/flight       Everything in Browse plus video
+                                  and music streaming services
+  Full Flight $49.99/month        Unlimited Browse + Stream on all
+  Pass        (auto-renewing)     Epsilon flights for the calendar
+                                  month
+
+H.4.2  Complimentary Wi-Fi by Tier
+
+  - Captain and Admiral tier members: Browse tier included free on every
+    Epsilon flight (see Section C.4 for full tier benefits)
+  - Admiral tier members: Stream tier included free on every Epsilon
+    flight
+
+H.4.3  SkyCredit Redemption for Wi-Fi
+
+  - Browse session: 3,000 SkyCredits
+  - Stream session: 6,000 SkyCredits
+
+Redeem via the Epsilon Wi-Fi portal after connecting to the onboard
+network. SkyCredits are deducted from the member's Voyager Rewards
+account upon confirmation.
+
+H.4.4  Availability
+
+Wi-Fi is available on all Epsilon Airlines mainline aircraft. Wi-Fi is
+NOT available on regional turboprop aircraft operating under the Epsilon
+Express fleet. Passengers on Epsilon Express flights will see "Wi-Fi not
+available" noted on their boarding pass and in the app.
+
+    Example: Jordan, a Navigator tier member, boards a Cascadia-to-
+    Meridian Bay flight and wants to stream a movie. Navigator tier does
+    not include complimentary Wi-Fi, so Jordan purchases a Stream pass
+    for $15.99 via the onboard portal.
+
+--------------------------------------------------------------------------------
+
+H.5  ONBOARD MEAL SERVICE
+
+H.5.1  Domestic Flights — Essentials Fare and Horizon Fare
+
+  - All flights: complimentary non-alcoholic beverages (soft drinks,
+    coffee, tea, juice, water)
+  - Flights 2 hours or longer: complimentary snack mix
+  - Buy-on-board menu: available for purchase, $7 to $14 per item
+    (sandwiches, wraps, snack boxes, desserts)
+  - Alcoholic beverages: available for purchase, $9 beer/wine, $11
+    spirits (see Section A for fare class definitions)
+
+H.5.2  Domestic Flights — Summit Fare
+
+  - Complimentary snack box (rotating selection of premium snacks,
+    cheese, crackers, dried fruit)
+  - Complimentary non-alcoholic beverages
+  - Beer and wine: $8 per serving
+  - Buy-on-board menu also available
+
+H.5.3  International Flights — Summit Fare
+
+  - Complimentary hot meal service (choice of two entrees)
+  - Complimentary beer and wine with meal service
+  - Complimentary non-alcoholic beverages throughout the flight
+  - Flights over 8 hours: second meal or snack service prior to arrival
+
+H.5.4  Domestic Flights — Apex Class
+
+  - Multi-course meal curated by Epsilon's culinary team
+  - Premium open bar: top-shelf spirits, craft cocktails, fine wines
+  - Complimentary non-alcoholic beverages throughout the flight
+  - Warm towel service before and after meal
+
+H.5.5  International Flights — Apex Class
+
+  - Pre-departure champagne service
+  - Chef-curated three-course meal with wine pairing selected by
+    Epsilon's sommelier
+  - Mid-flight snack and beverage service available on demand
+  - Flights 8 hours or longer: turn-down service including premium
+    bedding, pillow menu, and amenity kit in the CloudDeck Suite
+  - Pre-arrival breakfast or light meal service
+
+    Example: Aisha books an Apex Class Transpacific ticket from Cascadia
+    (CSC) to a partner destination, a 10-hour flight. She receives pre-
+    departure champagne, a 3-course dinner with wine pairing, turn-down
+    service with premium bedding in her CloudDeck Suite, and a pre-
+    arrival breakfast.
+
+--------------------------------------------------------------------------------
+
+H.6  ALCOHOL POLICY
+
+H.6.1  The following alcohol service rules apply on all Epsilon Airlines
+       flights:
+
+  (a) Minimum age for alcohol service: 21 years. Valid government-issued
+      photo identification may be requested.
+  (b) Epsilon Airlines reserves the right to refuse alcohol service to
+      any passenger at any time at the discretion of the cabin crew.
+  (c) Economy cabin (Essentials, Horizon, Summit fares): maximum of 2
+      alcoholic beverages per passenger per hour.
+  (d) Apex Class: no per-hour limit; however, responsible service
+      standards apply, and crew may discontinue service at their
+      discretion.
+  (e) Outside alcohol is strictly prohibited onboard. Passengers may not
+      consume alcoholic beverages brought from the terminal, duty-free
+      purchases, or any other external source during the flight.
+  (f) Violation of the alcohol policy may result in service refusal,
+      incident reporting, and a travel ban as outlined in H.7.
+
+--------------------------------------------------------------------------------
+
+H.7  ONBOARD CONDUCT POLICY
+
+H.7.1  Disruptive Behavior
+
+Epsilon Airlines maintains a zero-tolerance policy toward behavior that
+threatens the safety, comfort, or dignity of passengers and crew.
+
+  Offense Level          Response
+  ---------------------------------------------------------------
+  Level 1: Minor         Verbal warning from cabin crew; incident
+  disruption             documented. Repeated Level 1 offenses
+                         may escalate to Level 2.
+
+  Level 2: Sustained     Travel ban of 6 to 24 months at Epsilon's
+  disruptive behavior    discretion. Written notification sent to
+                         the passenger within 10 business days.
+
+  Level 3: Interference  Immediate flight diversion if necessary.
+  with crew duties       Permanent travel ban on all Epsilon
+                         Airlines services. Law enforcement
+                         referral upon landing.
+
+H.7.2  Smoking and Vaping
+
+Smoking and vaping of any substance is prohibited in all areas of
+Epsilon Airlines aircraft, including lavatories. Violation results in:
+
+  - Fine of $500, billed to the passenger's payment method on file
+  - Travel ban of 12 months minimum
+  - Incident report filed with the Federal Aviation Administration
+
+H.7.3  Reporting and Appeals
+
+Passengers subject to a travel ban receive written notification via
+email and postal mail. Appeals may be submitted in writing to
+conduct@epsilonairlines.com within 30 calendar days of the ban notice.
+Appeals are reviewed by the Epsilon Airlines Safety Review Board; a
+decision is issued within 45 business days.
+
+The complete Epsilon Airlines Onboard Conduct Policy is published at
+epsilonairlines.com/conduct and is incorporated by reference into the
+Epsilon Airlines Contract of Carriage.
+
+    Cross-references: Section A (fare class definitions and cabin
+    assignments), Section C (Voyager Rewards tier benefits including
+    lounge access and complimentary Wi-Fi).
+
+================================================================================
+END OF SECTION H
+================================================================================
+================================================================================
+APPENDICES
+Epsilon Airlines — Passenger Service Manual
+================================================================================
+
+APPENDIX A: COMPLETE FEE SCHEDULE
+
+All fees are in U.S. dollars and are current as of the effective date of
+this manual. Fees are subject to change; the most current schedule is
+published at epsilonairlines.com/fees.
+
+A.1  Baggage Fees (see also Appendix D for detailed matrix)
+
+  Fee Category                                  Amount
+  ------------------------------------------------------------------
+  First checked bag — Essentials Fare (dom.)    $35
+  First checked bag — Horizon Fare (dom.)       $0 (included)
+  First checked bag — Summit Fare               $0 (included)
+  First checked bag — Apex Class                $0 (included)
+  Second checked bag — Essentials (dom.)        $45
+  Second checked bag — Horizon (dom.)           $40
+  Second checked bag — Summit (dom.)            $0 (included)
+  Second checked bag — Apex Class               $0 (included)
+  Third+ checked bag (all fare classes)         $150 per bag
+  Overweight bag (51-70 lbs)                    $75 surcharge
+  Overweight bag (71-100 lbs)                   $150 surcharge
+  Oversize bag (63-80 linear inches)            $100 surcharge
+  Oversize bag (81-115 linear inches)           $200 surcharge
+  Sporting equipment (standard)                 $35 per item
+  Sporting equipment (oversized, e.g. surfboard)$75 per item
+  Pet in cabin                                  $125 each way
+  Pet cargo (domestic)                          $250 each way
+
+A.2  Change and Cancellation Fees (see Section D)
+
+  Fee Category                                  Amount
+  ------------------------------------------------------------------
+  Same-day flight change — Essentials           $75
+  Same-day flight change — Horizon              $0
+  Same-day flight change — Summit/Apex          $0
+  Itinerary change — Essentials (24hr+ before)  $200
+  Itinerary change — Horizon (24hr+ before)     $100
+  Itinerary change — Summit/Apex                $0
+  Cancellation — Essentials (non-refundable)    Fare forfeited; $200
+                                                credit minus fee
+  Cancellation — Horizon                        Travel credit issued
+                                                minus $100 fee
+  Cancellation — Summit                         Full refund to orig.
+                                                payment method
+  Cancellation — Apex                           Full refund to orig.
+                                                payment method
+  No-show fee — Essentials/Horizon              Full fare forfeited
+  No-show fee — Summit/Apex                     $150
+
+A.3  Seat Selection Fees
+
+  Fee Category                                  Amount
+  ------------------------------------------------------------------
+  Standard seat assignment — Essentials         $0 (assigned at
+                                                check-in) or $5-$15
+                                                to choose in advance
+  Preferred seat (front of cabin, exit row)     $15 - $45
+  SkyStretch Seats (extra legroom)              $35 - $85 per segment
+  CloudDeck Suite upgrade at booking            Fare difference +
+                                                applicable cabin fee
+  CloudDeck Suite upgrade at gate (if avail.)   $200 - $800 depending
+                                                on route
+
+A.4  Service Fees
+
+  Fee Category                                  Amount
+  ------------------------------------------------------------------
+  Unaccompanied minor service                   $150 each way
+  Onboard Wi-Fi — Browse                        $8.99 per flight
+  Onboard Wi-Fi — Stream                        $15.99 per flight
+  Onboard Wi-Fi — Full Flight Pass              $49.99 per month
+  Stratosphere Lounge day pass                  $65 per visit
+  Lounge additional guest                       $45 per person
+  Lounge child guest (ages 2-12)                $25 per child
+  Lounge spa treatments                         $35 - $95
+  Lounge private conference room                $50 per hour
+  Printed boarding pass at airport counter       $5
+  Ticket booking by phone agent                 $25 per ticket
+
+A.5  Penalty Fees
+
+  Fee Category                                  Amount
+  ------------------------------------------------------------------
+  Smoking/vaping onboard (Section H.7)          $500
+  Excess carry-on (gate-checked involuntarily)  $50
+
+--------------------------------------------------------------------------------
+
+APPENDIX B: SKYCREDIT EARNING CHART
+
+B.1  Base Earning by Fare Class (per mile flown)
+
+  Fare Class        Base SC/Mile    Notes
+  ------------------------------------------------------------------
+  Essentials Fare   3 SC            Minimum 500 SC per segment
+  Horizon Fare      5 SC            Minimum 500 SC per segment
+  Summit Fare       8 SC            Minimum 1,000 SC per segment
+  Apex Class        12 SC           Minimum 1,500 SC per segment
+
+B.2  Tier Bonus (applied on top of base earning)
+
+  Tier              Bonus           Effective SC/Mile (Horizon)
+  ------------------------------------------------------------------
+  Explorer          +0%             5.0 SC
+  Navigator         +25%            6.25 SC
+  Captain           +50%            7.5 SC
+  Admiral           +100%           10.0 SC
+
+  Example: An Admiral member flying 2,000 miles on a Summit Fare earns
+  2,000 x 8 SC x 2.0 (100% bonus) = 32,000 SkyCredits.
+
+B.3  Partner Earning
+
+  Partner Category              Earning Rate
+  ------------------------------------------------------------------
+  Partner airlines              50% - 100% of flown miles (varies by
+                                partner fare class; see partner page)
+  Hotel partners                500 - 2,000 SC per qualifying night
+  Car rental partners           250 - 750 SC per rental
+  Dining partners               3 SC per $1 spent
+  Retail shopping portal        1 - 10 SC per $1 (varies by retailer)
+
+B.4  Credit Card Earning
+
+  Card                          Earning Rate
+  ------------------------------------------------------------------
+  Epsilon Voyager Card          2 SC per $1 on Epsilon purchases
+                                1 SC per $1 on all other purchases
+  Epsilon Voyager Premium Card  3 SC per $1 on Epsilon purchases
+                                2 SC per $1 on dining and travel
+                                1 SC per $1 on all other purchases
+  Sign-up bonus (Voyager)       40,000 SC after $3,000 in 3 months
+  Sign-up bonus (Premium)       80,000 SC after $5,000 in 3 months
+
+  Cross-reference: Section C for tier qualification thresholds.
+
+--------------------------------------------------------------------------------
+
+APPENDIX C: SKYCREDIT REDEMPTION CHART
+
+C.1  Flight Redemptions (one-way, per passenger)
+
+  Route Category          Horizon     Summit      Apex
+  ------------------------------------------------------------------
+  Domestic Short-Haul     10,000 SC   15,000 SC   25,000 SC
+  (under 1,500 mi)
+
+  Domestic Long-Haul      15,000 SC   22,500 SC   35,000 SC
+  (1,500 - 3,500 mi)
+
+  Transatlantic            30,000 SC   45,000 SC   70,000 SC
+  (3,500 - 5,500 mi)
+
+  Transpacific             40,000 SC   55,000 SC   90,000 SC
+  (5,500+ mi)
+
+  Note: Essentials Fare is not available for SkyCredit redemption.
+  Taxes and carrier-imposed fees of $5.60 - $86.00 apply to all
+  award flights depending on route and destination.
+
+C.2  Upgrade Redemptions (per segment, one-way)
+
+  Upgrade Path                        SkyCredits   UpLift Tokens
+  ------------------------------------------------------------------
+  Essentials to Horizon               5,000 SC     Not available
+  Horizon to Summit (Domestic SH)     8,000 SC     1 token
+  Horizon to Summit (Domestic LH)     12,000 SC    2 tokens
+  Horizon to Summit (International)   18,000 SC    3 tokens
+  Summit to Apex (Domestic SH)        15,000 SC    2 tokens
+  Summit to Apex (Domestic LH)        22,000 SC    3 tokens
+  Summit to Apex (International)      35,000 SC    5 tokens
+
+  UpLift Token earning: Captain tier members receive 4 tokens per
+  calendar year. Admiral tier members receive 8 tokens per calendar
+  year. Additional tokens may be purchased at 7,500 SC each.
+
+C.3  Non-Flight Redemptions
+
+  Redemption Category                 SkyCredits
+  ------------------------------------------------------------------
+  Onboard Wi-Fi — Browse              3,000 SC
+  Onboard Wi-Fi — Stream              6,000 SC
+  Seat upgrade to SkyStretch Seats    4,000 - 8,000 SC per segment
+  Gift cards ($25 denomination)       5,000 SC
+  Gift cards ($50 denomination)       9,500 SC
+  Gift cards ($100 denomination)      18,000 SC
+  Magazine subscriptions (annual)     3,000 SC
+  Charity donation ($25 equivalent)   2,500 SC
+  Epsilon merchandise (varies)        2,000 - 50,000 SC
+
+  Cross-reference: Section H.4 for onboard Wi-Fi details.
+
+--------------------------------------------------------------------------------
+
+APPENDIX D: BAGGAGE FEE MATRIX
+
+D.1  Checked Baggage by Fare Class and Route
+
+  Fare Class     Bag #   Domestic    International   Weight Limit
+  ------------------------------------------------------------------
+  Essentials     1st     $35         $0              50 lbs / 23 kg
+  Essentials     2nd     $45         $45             50 lbs / 23 kg
+  Essentials     3rd+    $150        $150            50 lbs / 23 kg
+
+  Horizon        1st     $0          $0              50 lbs / 23 kg
+  Horizon        2nd     $40         $40             50 lbs / 23 kg
+  Horizon        3rd+    $150        $150            50 lbs / 23 kg
+
+  Summit         1st     $0          $0              50 lbs / 23 kg
+  Summit         2nd     $0          $0              50 lbs / 23 kg
+  Summit         3rd+    $150        $150            50 lbs / 23 kg
+
+  Apex           1st     $0          $0              70 lbs / 32 kg
+  Apex           2nd     $0          $0              70 lbs / 32 kg
+  Apex           3rd+    $150        $150            70 lbs / 32 kg
+
+D.2  Overweight and Oversize Surcharges
+
+  Weight/Size Range                   Surcharge
+  ------------------------------------------------------------------
+  51 - 70 lbs (23 - 32 kg)           $75
+  71 - 100 lbs (32 - 45 kg)          $150
+  Over 100 lbs                       Not accepted
+  63 - 80 linear inches              $100
+  81 - 115 linear inches             $200
+  Over 115 linear inches             Not accepted (cargo shipment
+                                     required)
+
+D.3  Tier Waivers
+
+  - Navigator tier: first checked bag free on Essentials Fare (dom.)
+  - Captain tier: first and second checked bag free on all fares (dom.)
+  - Admiral tier: first and second checked bag free on all fares,
+    all routes (domestic and international)
+  - Epsilon Voyager Card: first checked bag free (domestic, all fares)
+  - Epsilon Voyager Premium Card: first and second checked bag free
+    (domestic, all fares)
+
+  Cross-reference: Section B (baggage policy), Section C (tier waivers).
+
+--------------------------------------------------------------------------------
+
+APPENDIX E: ROUTE CATEGORIES
+
+E.1  Definitions and Mileage Bands
+
+  Category              Mileage Range       Description
+  ------------------------------------------------------------------
+  Domestic Short-Haul   Under 1,500 mi      Flights within the
+                                            contiguous states,
+                                            typically under 3.5 hrs
+
+  Domestic Long-Haul    1,500 - 3,500 mi    Coast-to-coast and
+                                            flights to/from Alaska,
+                                            Hawaii, and territories
+
+  Transatlantic         3,500 - 5,500 mi    Flights between North
+                                            America and Europe/
+                                            North Africa
+
+  Transpacific          5,500+ mi           Flights between North
+                                            America and Asia/
+                                            Oceania
+
+E.2  Example City Pairs
+
+  Category              Example Routes
+  ------------------------------------------------------------------
+  Domestic Short-Haul   Cascadia (CSC) - Meridian Bay (MRB)
+                        Solstice City (SLC) - Meridian Bay (MRB)
+                        Cascadia (CSC) - Solstice City (SLC)
+
+  Domestic Long-Haul    Cascadia (CSC) - East Harbor (EHB)
+                        Meridian Bay (MRB) - Pinnacle Point (PNP)
+                        Solstice City (SLC) - Coral Ridge (CRG)
+
+  Transatlantic         Cascadia (CSC) - Windholm (WDH)
+                        Meridian Bay (MRB) - Larkstone (LKS)
+                        Solstice City (SLC) - Briarvale (BRV)
+
+  Transpacific          Cascadia (CSC) - Jade Harbor (JDH)
+                        Meridian Bay (MRB) - Opal Bay (OPB)
+                        Cascadia (CSC) - Sakura City (SKC)
+
+  Cross-reference: Appendix C for SkyCredit redemption by route
+  category.
+
+--------------------------------------------------------------------------------
+
+APPENDIX F: TIER QUALIFICATION REQUIREMENTS AND BENEFITS SUMMARY
+
+F.1  Qualification Thresholds (per calendar year)
+
+  Tier        SkyCredits Earned    Qualifying Segments    Alt: Spend
+  ------------------------------------------------------------------
+  Explorer    0                    0                      $0
+  Navigator   15,000 SC            20 segments            $3,000
+  Captain     40,000 SC            45 segments            $8,000
+  Admiral     80,000 SC            80 segments            $18,000
+
+  Members must meet EITHER the SkyCredits earned threshold OR the
+  qualifying segments threshold OR the annual spend threshold.
+
+F.2  Benefits Comparison
+
+  Benefit                  Explorer  Navigator  Captain   Admiral
+  ------------------------------------------------------------------
+  SC earning bonus         +0%       +25%       +50%      +100%
+  Free checked bags (dom)  0         1st bag    1st + 2nd 1st + 2nd
+  Free checked bags (intl) 0         0          0         1st + 2nd
+  Complimentary upgrades   No        No         Yes (24h) Yes (72h)
+  Upgrade priority         N/A       N/A        Standard  Highest
+  SkyStretch at check-in   No        Complim.   Complim.  Complim.
+  Stratosphere Lounge      No        No         Yes*      Yes**
+  Priority check-in        No        Yes        Yes       Yes
+  Priority boarding        No        Zone 2     Zone 1    Zone 1
+  Priority baggage         No        No         Yes       Yes
+  Dedicated phone line     No        No         Yes       Yes
+  UpLift Tokens (annual)   0         0          4         8
+  Onboard Wi-Fi (Browse)   Paid      Paid       Free      Free
+  Onboard Wi-Fi (Stream)   Paid      Paid       Paid      Free
+  Rollover SC to next yr   No        No         Yes (25%) Yes (50%)
+  Companion upgrade cert.  No        No         No        2 per year
+
+  * Captain: Stratosphere Lounge access with same-day Epsilon flight
+  ** Admiral: Stratosphere Lounge access anytime, any airline
+
+  Cross-reference: Section C for detailed tier benefit descriptions,
+  Section H.1 for lounge access rules.
+
+--------------------------------------------------------------------------------
+
+APPENDIX G: CUSTOMER SERVICE CONTACT INFORMATION
+
+G.1  Phone Support
+
+  Service                   Number              Hours
+  ------------------------------------------------------------------
+  General reservations      1-800-EPSILON       24/7
+                            (1-800-377-4566)
+  Voyager Rewards service   1-800-377-4567      24/7
+  Captain/Admiral dedicated 1-800-377-4568      24/7 (priority queue)
+  Hearing impaired (TTY)    1-800-377-4569      24/7
+  International (UK)        +44 20 7946 0123    6:00 AM - 10:00 PM GMT
+  International (Germany)   +49 30 1234 5678    6:00 AM - 10:00 PM CET
+  International (Japan)     +81 3 1234 5678     6:00 AM - 10:00 PM JST
+  Cargo and freight         1-800-377-4570      Mon-Fri 7 AM - 7 PM ET
+  Group travel (10+ pax)    1-800-377-4571      Mon-Fri 8 AM - 6 PM ET
+
+G.2  Digital Channels
+
+  Channel                   Details
+  ------------------------------------------------------------------
+  Email (general)           support@epsilonairlines.com
+  Email (Voyager Rewards)   voyager@epsilonairlines.com
+  Email (conduct appeals)   conduct@epsilonairlines.com
+  Website                   epsilonairlines.com
+  Mobile app                iOS and Android — "Epsilon Airlines"
+  Live chat                 Available in-app and on website,
+                            24/7 for Captain and Admiral tier;
+                            6:00 AM - 11:00 PM ET for all others
+  Social media (X/Twitter)  @EpsilonAirHelp (response within 2 hrs)
+  Social media (Facebook)   facebook.com/EpsilonAirlines
+
+G.3  Escalation Procedures
+
+  Level   Handler                   Response Timeline
+  ------------------------------------------------------------------
+  1       Frontline agent           Immediate (phone, chat, or email
+                                    within 4 business hours)
+  2       Supervisor review         Within 24 hours of Level 1
+                                    escalation request
+  3       Customer Relations        Written complaint reviewed and
+          (written complaint)       responded to within 5 business
+                                    days. Submit via email to
+                                    support@epsilonairlines.com with
+                                    subject "Formal Complaint" or via
+                                    mail to: Epsilon Airlines Customer
+                                    Relations, P.O. Box 4400,
+                                    Cascadia, WA 98101
+  4       DOT complaint             If unresolved after Level 3,
+                                    passengers may file a complaint
+                                    with the U.S. Department of
+                                    Transportation, Aviation Consumer
+                                    Protection Division, at
+                                    airconsumer.dot.gov
+
+  Cross-reference: Section H.7 for conduct-related complaints and
+  appeals process.
+
+--------------------------------------------------------------------------------
+
+APPENDIX H: DOCUMENT VERSION HISTORY
+
+  Version     Effective Date    Summary of Changes
+  ------------------------------------------------------------------
+  2025.1      January 1, 2025   Initial publication of consolidated
+                                Passenger Service Manual. Incorporates
+                                all prior policy documents, fare rules,
+                                Voyager Rewards program terms, and
+                                operational procedures into a single
+                                reference. Approved by Epsilon Airlines
+                                Policy Governance Board.
+
+  Supersedes: Epsilon Airlines Tariff Rules (2024 edition), Voyager
+  Rewards Program Terms & Conditions (rev. 2024.3), Onboard Service
+  Standards Manual (rev. 2024.2), and Baggage Policy Handbook
+  (rev. 2024.1).
+
+  Next scheduled review: July 1, 2025.
+
+  Document owner: Epsilon Airlines — Office of Commercial Policy
+  Distribution: Public (epsilonairlines.com/policy-manual)
+
+================================================================================
+END OF APPENDICES
+================================================================================
